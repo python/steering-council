@@ -1,6 +1,6 @@
 # Steering Council Update
 
-Date: 2019-02-15 | Repo | Contact Us
+Date: 2019-02-15
 
 ## Message from the Steering Council
 
@@ -52,7 +52,7 @@ Council._
 [Steering Council Note] Longer term, do we wish to have these requests be
 submitted as an issue on the Steering Council repo so a detailed log exists?
 
-- [2019-02-11-3] Consider PEP xxx - Chris Jerdonek
+- [2019-02-11-3] Consider PEP 580 - Chris Jerdonek
 - [2019-02-11-2] Communications channels - email, discourse, blend - Victor Stinner (PENDING - Carol/Pablo/? will co-author a PEP)
 - [2019-02-11-1] Promotion of new core developer - Victor Stinner
   (PENDING - after vote deadline)
@@ -69,6 +69,8 @@ _This section contains a brief update on administrative items._
   Life happens - health, family, work - that may make it necessary for a
   member to formally step away. Let's have a reminder about this in the
   on-boarding document.
+- Communicate process for requesting a PEP review: File an issue on the
+  python/steering-council repo
 
 ---
 
