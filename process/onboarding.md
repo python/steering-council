@@ -5,8 +5,11 @@
 - [ ] Review PEP 13, including the mandates and powers
 - [ ] Request python.org email address from Infrastructure Director
   (optional)
-- [ ] Provide preferred email to Infrastructure Director to
+- [ ] Provide preferred email/account details to Infrastructure Director to
   set up a steering council group
+  - [ ] steering-council@ mailing list
+  - [ ] Discourse
+  - [ ] Zulip
 - [ ] Review [best practices](best-practices.md) for effective governance
 
 ## New Council Tasks
