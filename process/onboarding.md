@@ -1,12 +1,12 @@
-# Onboarding Steering Council Members
+# Onboarding Checklist for Steering Council Members
 
 ## New Member Steps
 
 - [ ] Review PEP 13, including the mandates and powers
 - [ ] Request python.org email address from Infrastructure Director
-  (optional)
+      (optional)
 - [ ] Provide preferred email/account details to Infrastructure Director to
-  set up a steering council group
+      set up a steering council group
   - [ ] steering-council@ mailing list
   - [ ] Discourse
   - [ ] Zulip
@@ -16,8 +16,8 @@
 
 - [ ] Set a calendar for one hour monthly council meetings
 - [ ] Determine primary communications lead to act as spokesperson
-  in the event of a crisis (i.e. security breach, acts of nature, etc.)
-  **Minimizes conflicting messages from the council**
+      in the event of a crisis (i.e. security breach, acts of nature, etc.)
+      **Minimizes conflicting messages from the council**
 - [ ] Determine publishing schedule for community update from
-  Steering Council (initial schedule will be the 1st and 15th of
-  each month) **Promotes transparent, open communication**
+      Steering Council (initial schedule will be the 1st and 15th of
+      each month) **Promotes transparent, open communication**
