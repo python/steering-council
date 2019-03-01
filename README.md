@@ -7,6 +7,7 @@ This repo contains activity updates, process, and planning information for the P
 These updates provide high level information about the Steering Council's
 activities.
 
+- [2019-02-26](updates/2019-02-26_steering-council-update.md)
 - [2019-02-15](updates/2019-02-15_steering-council-update.md)
 
 ## Process
