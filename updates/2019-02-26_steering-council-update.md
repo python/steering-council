@@ -41,7 +41,7 @@ in PEP 13.
 > Establish appropriate decision-making processes for PEPs
 
 - PEP 1 was updated to reflect new Steering Council role (**COMPLETED** by [PR 896](https://github.com/python/peps/pull/896))
-- Consider [PEP 580](https://github.com/python/peps/blob/master/pep-0580.rst) - Chris Jerdonek request (_PENDING_)
+- Consider [PEP 580](https://github.com/python/peps/blob/master/pep-0580.rst) - Jeroen Demeyer request (_PENDING_)
 - Requesting a PEP review: Please file an issue on the
   `python/steering-council` repo.
 
