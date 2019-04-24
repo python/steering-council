@@ -70,7 +70,7 @@ using the mandates listed in PEP 13.
 - To request a PEP review, please file an issue on the
   [SC issue tracker](https://github.com/python/steering-council/issues).
 
-- We've appointed BDFL-Delegates ("BDs") to a number of PEPs, after
+- We've appointed BDFL-Delegates (BDs) to a number of PEPs, after
   assuring that the proposed BD and the PEP author(s) agree on the
   appointment:
 
@@ -89,8 +89,8 @@ using the mandates listed in PEP 13.
 
   - PEP 586, PEP 589, PEP 591 (various typing PEPs by members of the
     mypy team and others, topics Literal, TypedDict, and Final).
-    *Appointed Guido van Rossum as BD.  (PEP 544, Protocols, also
-    belongs in this list; Guido made himself BD last year.)*
+    *Appointed Guido van Rossum as BD.*  (PEP 544, Protocols, also
+    belongs in this list; Guido made himself BD last year.)
 
   - PEP 578, "Python Runtime Audit Hooks", Steve Dower.
     *Appointed Christian Heimes as BD.*
@@ -104,7 +104,7 @@ using the mandates listed in PEP 13.
 
   - PEP 570, "Python Positional-Only Parameters", by Larry Hastings,
     Pablo Galindo and others.
-    *Appointed Guido van Rossum as BD.  (And he approved it!)*
+    *Appointed Guido van Rossum as BD.*  (And he approved it!)
 
   - PEP 574, "Pickle protocol 5 with out-of-band data", Antoine Pitrou.
     *Appointed Nick Coghlan as BD.*
