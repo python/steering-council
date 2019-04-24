@@ -19,8 +19,8 @@ almost all outstanding PEPs.  We're also appearing at PyCon US.
 
 ## Mandate
 
-This section maps Steering Council (SC) activity and projects to the
-mandates listed in PEP 13.
+This section organizes Steering Council (SC) activity and projects
+using the mandates listed in PEP 13.
 
 ### Language
 
