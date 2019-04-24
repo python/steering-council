@@ -52,8 +52,9 @@ using the mandates listed in PEP 13.
   - To reach just the SC, you can email us at
     steering-council@python.org.
 
-  - We will also occasionally use Discourse, at discuss.python.org (for example,
-    Discourse is useful for polls and votes).
+  - We will also occasionally use Discourse, at
+    https://discuss.python.org (for example, Discourse is useful for
+    polls and votes).
 
 - **Issue tracker:** We've discussed PEP 581, "Using GitHub Issues for
   CPython" by Mariatta Wijaya.  We're in favor of this move, and feel
