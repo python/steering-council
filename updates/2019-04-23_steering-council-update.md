@@ -55,13 +55,19 @@ mandates listed in PEP 13.
   - We will also occasionally use Discourse, at discuss.python.org (for example,
     Discourse is useful for polls and votes).
 
+- **Issue tracker:** We've discussed PEP 581, "Using GitHub Issues for
+  CPython" by Mariatta Wijaya.  We're in favor of this move, and feel
+  that the transition should be professionally planned and executed.
+  We're exploring ideas on how to do that (using the successful
+  roll-out of the new Warehouse infrastructure for PyPI as a model).
+
 
 ### PEPs
 
 > Establish appropriate decision-making processes for PEPs
 
-- Requesting a PEP review: Please file an issue on the
-  `python/steering-council` repo.
+- To request a PEP review, please file an issue on the
+  `python/steering-council` GitHub repo.
 
 - We've appointed BDFL-Delegates ("BDs") to a number of PEPs, after
   assuring that the proposed BD and the PEP author(s) agree on the
