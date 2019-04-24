@@ -84,7 +84,8 @@ using the mandates listed in PEP 13.
     *Appointed Brett Cannon as BD on behalf of the SC.*
 
   - PEP 554, "Multiple Interpreters in the Stdlib", Eric Snow.
-    *Appointed Antoine Pitrou as BD.*
+    *Appointed Antoine Pitrou as BD.* (BD and author have indicated
+    that this PEP will be postponed until Python 3.9.)
 
   - PEP 586, PEP 589, PEP 591 (various typing PEPs by members of the
     mypy team and others, topics Literal, TypedDict, and Final).
