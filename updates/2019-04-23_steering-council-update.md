@@ -27,7 +27,7 @@ using the mandates listed in PEP 13.
 > Maintain the quality and stability of the Python language and CPython interpreter
 
 - We've begun to explore the options for improving the interpreter in
-  the future, but apart from PEP work we've not come to any
+  the future, but apart from the PEP work detailed below we've not come to any
   conclusions yet.  In the coming months we hope to come up with
   guidelines and a process for evolving the interpreter, to be
   developed in close participation with the core developers and
