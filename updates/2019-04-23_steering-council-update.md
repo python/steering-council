@@ -68,7 +68,7 @@ using the mandates listed in PEP 13.
 > Establish appropriate decision-making processes for PEPs
 
 - To request a PEP review, please file an issue on the
-  `python/steering-council` GitHub repo.
+  [SC issue tracker](https://github.com/python/steering-council/issues).
 
 - We've appointed BDFL-Delegates ("BDs") to a number of PEPs, after
   assuring that the proposed BD and the PEP author(s) agree on the
