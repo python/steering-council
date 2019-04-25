@@ -59,8 +59,9 @@ using the mandates listed in PEP 13.
 - **Issue tracker:** We've discussed PEP 581, "Using GitHub Issues for
   CPython" by Mariatta Wijaya.  We're in favor of this move, and feel
   that the transition should be professionally planned and executed.
-  We're exploring ideas on how to do that (using the successful
-  roll-out of the new Warehouse infrastructure for PyPI as a model).
+  In collaboration with the PSF we're exploring ideas on how to do
+  that (using the successful roll-out of the new Warehouse
+  infrastructure for PyPI as a model).
 
 
 ### PEPs
@@ -95,8 +96,9 @@ using the mandates listed in PEP 13.
   - PEP 578, "Python Runtime Audit Hooks", Steve Dower.
     *Appointed Christian Heimes as BD.*
 
-  - PEPs 576, 579, 580 (competing PEPs on C function call
-    optimizations by Mark Shannon and Jeroen Demeyer).
+  - PEPs 576, 579, 580, 590 (competing PEPs on C function call
+    optimizations by Mark Shannon and Jeroen Demeyer; note that PEP
+    576 is withdrawn in favor of PEP 590).
     *Appointed Petr Viktorin as BD.*
 
   - PEP 533, "Deterministic cleanup for iterators", Nathaniel J. Smith.
