@@ -109,15 +109,16 @@ using the mandates listed in PEP 13.
   - PEP 574, "Pickle protocol 5 with out-of-band data", Antoine Pitrou.
     *Appointed Nick Coghlan as BD.*
 
+  - PEP 573, "Module State Access from C Extension Methods", Petr
+    Viktorin and others.
+    *Postponed to Python 3.9.  Appointed Stefan Behnel as BD.*
+
 - And we've updated the status of some other PEPs:
 
   - PEP 557 "Data Classes", Eric V Smith.  *Marked Final.*
 
   - PEP 467 "Minor API improvements for binary sequences", Nick
     Coghlan, Ethan Furman.  *Deferred.*
-
-  - PEP 573, "Module State Access from C Extension Methods", Petr
-    Viktorin and others.  *Postponed to Python 3.9.*
 
 ### Interaction with PSF
 
