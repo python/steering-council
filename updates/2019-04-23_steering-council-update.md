@@ -72,7 +72,7 @@ using the mandates listed in PEP 13.
   [SC issue tracker](https://github.com/python/steering-council/issues).
 
 - We've appointed BDFL-Delegates (BDs) to a number of PEPs, after
-  assuring that the proposed BD and the PEP author(s) agree on the
+  ensuring that the proposed BD and the PEP author(s) agree on the
   appointment:
 
   - PEP 558 "Defined semantics for locals()", Nick Coghlan.
@@ -134,7 +134,7 @@ using the mandates listed in PEP 13.
 
 ### Governance
 
-> Seek consensus among contributors and the core team before acting in a formal capacity
+> Seek consensus among contributors and the core team before acting in a formal capacity,
 > Act as a "court of final appeal" for decisions where all other methods have failed.
 
 - Established a weekly SC meeting cadence (Tuesdays 3-4pm US West Coast time).
