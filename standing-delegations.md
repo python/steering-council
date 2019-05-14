@@ -4,7 +4,7 @@ This document serves as a public record of current standing delegations, the
 reasons they were put in place, and the circumstances under which they may no
 longer be needed.
 
-## PyPA Specifications
+## PyPA Delegations
 
 Currently active packaging interoperability specifications are maintained in
 the [PyPA Specifications] section in the Python Packaging User Guide and the
