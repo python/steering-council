@@ -1,7 +1,7 @@
 # Steering Council Community Update for November - December 2019
 
 ## November recap:
-- Steering Council assigned one another tasks to check-in on and clean up 29 open PEPs in November (Nov 5 and Nov 12 meetings). See \[PEP repo\](https://github.com/python/peps/) for details.
+- Steering Council assigned one another tasks to check-in on and clean up 29 open PEPs in November (Nov 5 and Nov 12 meetings). See [PEP repo](https://github.com/python/peps/) for details.
 - Steering Council decided that going forward, only one person will need to approve the minutes and the group will try to rotate that responsibility. Additionally, to keep meetings efficient we will: 
     -  1. have a person responsible for the agenda to make sure the agenda is accurate and timed appropriately
     -  2. have a person run the actual meeting to make sure we stay on topic and cut discussions when topics go over time.
