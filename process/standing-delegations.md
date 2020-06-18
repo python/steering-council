@@ -11,7 +11,9 @@ the [PyPA Specifications] section in the Python Packaging User Guide and the
 process for updating those specifications is documented in the [PyPA
 Documentation].
 
-These delegations are expected to stand indefinitely.
+These delegations are expected to stand indefinitely. Any of the standing
+delegates may also be a sponsor for any packaging-related PEP, regardless
+of their Python core developer status.
 
 Standing Delegations:
 
