@@ -148,11 +148,12 @@
 
 - The Steering Council discussed Eric's question about PEP 554 (multiple
   Interpreters in the stdlib). It was decided Victor would loop in Antoine
-  and send SC motivations. - Steering Council discussed the Minimum Viable
-  Python WG. The SC agrees the WG should concentrate on defining the
-  requirements for claiming/validating "this is a Python" and defining the
-  changes to CPython's core or the language spec needed to support "this is
-  a Python".
+  and send SC motivations.
+
+- Steering Council discussed the Minimum Viable Python WG. The SC agrees the
+  WG should concentrate on defining the requirements for claiming/validating
+  "this is a Python" and defining the changes to CPython's core or the
+  language spec needed to support "this is a Python".
 
 - Carol gave an update on the Documentation WG, Carol and Ned are currently
   working through their draft document.
@@ -195,8 +196,9 @@
 - Approved Guido as delegate for PEP 618 (add optional length-checking to
   zip).
 
-- Discussed the CZI grant process and potential projects:
-  https://github.com/python/steering-council/issues/26
+- Discussed the [Chan Zuckerberg Initiative Essential Open Source Software
+  for Science](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
+  grant process and potential projects: https://github.com/python/steering-council/issues/26
 
 - The Steering Council did a review of all open PEPs and assigned each other
   follow-ups.
