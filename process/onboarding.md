@@ -7,17 +7,15 @@
       (optional)
 - [ ] Provide preferred email/account details to Infrastructure Director to
       set up a steering council group
-  - [ ] steering-council@ mailing list
+  - [ ] steering-council@ mailing list (which has public archives)
   - [ ] Discourse
-  - [ ] Zulip
 - [ ] Review [best practices](best-practices.md) for effective governance
 
 ## New Council Tasks
 
-- [ ] Set a calendar for one hour monthly council meetings
+- [ ] Set a calendar for one hour weekly council meetings
 - [ ] Determine primary communications lead to act as spokesperson
       in the event of a crisis (i.e. security breach, acts of nature, etc.)
       **Minimizes conflicting messages from the council**
 - [ ] Determine publishing schedule for community update from
-      Steering Council (initial schedule will be the 1st and 15th of
-      each month) **Promotes transparent, open communication**
+      Steering Council **Promotes transparent, open communication**
