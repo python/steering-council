@@ -3,7 +3,7 @@
 ## New Member Steps
 
 - [ ] Review PEP 13, including the mandates and powers
-- [ ] Request python.org email address from Infrastructure Director
+- [ ] Request [python.org email](https://www.python.org/psf/records/board/policies/email/) address from Infrastructure Director
       (optional)
 - [ ] Provide preferred email/account details to Infrastructure Director to
       set up a steering council group
