@@ -7,7 +7,7 @@
       (optional)
 - [ ] Provide preferred email/account details to Infrastructure Director to
       set up a steering council group
-  - [ ] steering-council@ mailing list (which has public archives)
+  - [ ] steering-council@ mailing list (which has private archives)
   - [ ] Discourse
 - [ ] Review [best practices](best-practices.md) for effective governance
 
