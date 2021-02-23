@@ -17,7 +17,8 @@
 - SC discussed the Pattern Matching PEPs again, and put out a
   discuss.python.org poll to see if there is consensus among core
   developers.
-- SC approved https://bugs.python.org/issue28468
+- SC discussed adding platform.freedesktop_os_release()
+  (https://bugs.python.org/issue28468), and approved it.
 - SC discussed PEPs 634-636 (Structural Pattern Matching) yet again. The SC
   decided to recommended to the 2021 SC that they accept PEP 634. Brett
   [drafted an announcement](https://mail.python.org/archives/list/steering-council@python.org/thread/I745B6GLVRDA42ZI5HMCN3YOQG5ZXEY3/).
