@@ -14,6 +14,7 @@ activities.
 - [2019-11-09](updates/2019-11-09-steering-council-update.md)
 - [2020-01-06](updates/2020-01-06-steering-council-update.md)
 - [2020-11-02](updates/2020-11-02-steering-council-update.md)
+- [2021-01] (updates/2021-01-steering-council-update.md)
 
 ## Process
 
