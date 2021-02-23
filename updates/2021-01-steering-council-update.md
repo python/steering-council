@@ -67,7 +67,7 @@
 - SC discussed delaying the removal of ABC aliases from collections. It was
   decided it would be removed in 3.10 as scheduled. Pablo will comment on
   the issue.
-- SC discussed discussed how to handle differences between accepted PEPs and
+- SC discussed how to handle differences between accepted PEPs and
   implementation. It was decided that any changes should be decided between
   at least two people (i.e. the author and PEP delegate). If an agreement
   cannot be reached, it should be sent to the Steering Council for review.
