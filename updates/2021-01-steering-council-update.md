@@ -1,31 +1,34 @@
 # November
 
-- Steering Council discussed the Pattern Matching PEPs and decided it would
-  not make a decision on it and will make a recommendation to the next
-  Steering Council. Brett sent a note to the PEP authors.
+- Steering Council discussed PEP 634 (Structural Pattern Matching) and
+  decided it would not make a decision on it, since this SC is on its way
+  out. Instead, the SC will make a recommendation to the next Steering
+  Council. Brett sent a note to the PEP authors.
 - SC reviewed Ewa's proposed CPython sponsorship benefits and everyone is
   fine with it as is. We will have each SC review the benefits especially
   the benefit pertaining to meeting with the Steering Council.
-- SC discussed Kyle's internship priority update to [PEP
+- SC discussed the internship priority update to [PEP
   594](https://www.python.org/dev/peps/pep-0594/) and everyone is fine with
   it.
-- SC discussed the draft response Thomas' wrote to Mark S. and decided it
-  was fine to send. Thomas can also publish his blog. Thomas will wait for
-  Victor to chime in on the Community Updates before sending them out.
-- SC discussed the Pattern Matching PEPs, and put out a discuss.python.org
-  poll to see if there is consensus among core developers.
+- SC discussed the draft response to the proposal for funded CPython
+  optimisation work, and decided it was fine to send. Thomas can also
+  publish his blog. Thomas will wait for Victor to chime in on the Community
+  Updates before sending them out.
+- SC discussed the Pattern Matching PEPs again, and put out a
+  discuss.python.org poll to see if there is consensus among core
+  developers.
 - SC approved https://bugs.python.org/issue28468
-- SC discussed PEPs 634-636 (Structural Pattern Matching). The SC decided to
-  recommended to the 2021 SC that they accept PEP 634. Brett [drafted an
-  announcement](https://mail.python.org/archives/list/steering-council@python.org/thread/I745B6GLVRDA42ZI5HMCN3YOQG5ZXEY3/).
-- Google sponsored the Core Dev sprint. Thomas is going to schedule a chat
-  between the SC and Google for Dec 14
+- SC discussed PEPs 634-636 (Structural Pattern Matching) yet again. The SC
+  decided to recommended to the 2021 SC that they accept PEP 634. Brett
+  [drafted an announcement](https://mail.python.org/archives/list/steering-council@python.org/thread/I745B6GLVRDA42ZI5HMCN3YOQG5ZXEY3/).
+- Google sponsored the Core Dev sprint and chose the SC chat as its reward.
+  Thomas is going to schedule a chat between the SC and Google for Dec 14
 
 # December
 - Steering Council worked on a final announcement to python-dev@ about PEP
   634.
 - SC voted on PEP 632 and will get Victor's vote before Brett sends a note
-  to Steve.
+  to the PEP author.
 - SC is fine with Barry's & Brett's response to
   https://github.com/python/steering-council/issues/41 so Brett closed the
   issue.
