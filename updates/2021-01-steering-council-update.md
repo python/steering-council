@@ -58,7 +58,7 @@
   SC.
 
 ## January 11
-- Carol [shared the Documentation WG charter](https://docs.google.com/document/d/175bjJA7hKRaqvLjiRXSvUxKgGWGJ5RMuW-jYKUsXm8c/edit#heading=h.4jjd55oa8ox7)
+- Carol [shared the Documentation WG charter](https://docs.google.com/document/d/175bjJA7hKRaqvLjiRXSvUxKgGWGJ5RMuW-jYKUsXm8c)
   and Steering Council members should review it.
 - SC reviewed the Developer-in-Residence job description that is left over
   from the CZI grant application. The Steering Council decided how this role
