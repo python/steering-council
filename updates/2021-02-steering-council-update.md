@@ -1,5 +1,3 @@
-ry
-
 ## February 01
 
 - After more deliberation and consideration of all available information, the
