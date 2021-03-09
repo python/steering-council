@@ -40,7 +40,7 @@ ry
 
 ## February 15
 
-[ The SC could not meet this week due to a bank holiday in the US and the
+[ The SC could not meet this week due to holidays in the US and Canada, and the
 impossibility to find a common replacement date in the week ] 
 
 ## February 22
