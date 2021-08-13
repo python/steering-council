@@ -17,7 +17,10 @@ activities.
 - [2021-01](updates/2021-01-steering-council-update.md)
 - [2021-02](updates/2021-02-steering-council-update.md)
 - [2021-03](updates/2021-03-steering-council-update.md)
-
+- [2021-04](updates/2021-04-steering-council-update.md)
+- [2021-05](updates/2021-05-steering-council-update.md)
+- [2021-06](updates/2021-06-steering-council-update.md)
+- 
 ## Process
 
 These informational documents are collected here to aid the present and
