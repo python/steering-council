@@ -20,6 +20,7 @@ activities.
 - [2021-04](updates/2021-04-steering-council-update.md)
 - [2021-05](updates/2021-05-steering-council-update.md)
 - [2021-06](updates/2021-06-steering-council-update.md)
+- [2021-07](updates/2021-07-steering-council-update.md)
 
 ## Process
 
@@ -37,3 +38,4 @@ future Steering Council members.
 - [PEP 8016 The Steering Council Model](https://github.com/python/peps/blob/master/pep-8016.rst)
 - [PEP 8100 January 2019 steering council election](https://github.com/python/peps/blob/master/pep-8100.rst)
 - [PEP 8101 December 2019 steering council election](https://github.com/python/peps/blob/master/pep-8101.rst)
+- [PEP 8102 2021 Term steering council election](https://github.com/python/peps/blob/master/pep-8102.rst)
