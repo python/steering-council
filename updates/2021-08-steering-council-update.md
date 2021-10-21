@@ -1,5 +1,5 @@
 # August 2
-- The Steering Council met with Developer-in-Residence to discuss progress. The
+- The Steering Council met with the Developer-in-Residence to discuss progress. The
   group also discussed what the focus should be going forward and that
   strategic approaches need to be considered for PRs instead of individual
   review.
