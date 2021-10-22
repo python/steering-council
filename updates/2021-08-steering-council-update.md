@@ -48,7 +48,7 @@
 - SC brought up October 2021 sprints. They will be virtual. The group will
   continue discussing.
 
-# August 23
+# August 30
 - The Steering Council met with the Developer-in-Residence to discuss progress
   and obstacles. They also discussed the CLA work flow and that Łukasz will
   communicate with Yury as they were building something similar for EdgeDB.
