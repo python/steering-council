@@ -17,7 +17,7 @@
   repo with a subset of issues in it for a small group to test and provide
   feedback on.
 - The Steering Council discussed [PEP 654](https://www.python.org/dev/peps/pep-0654/)(
-  Exception Groups and *except*) and after some extensive deliberation, the
+  Exception Groups and except*) and after some extensive deliberation, the
   group decided to accept.
 - Thomas sent out the notification.
 - The Steering Council discussed [PEP 649](https://www.python.org/dev/peps/pep-0649/)(
