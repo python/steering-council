@@ -5,9 +5,9 @@
 - The Steering Council met with Łukasz, the Developer-in-Residence. The group
   discussed dealing with review requests and folks not giving Łukasz enough
   time to review before things are merged.
-- The group briefly described Ezio's progress as the PM for the GitHhub Issues
+- The group briefly described Ezio's progress as the PM for the GitHub Issues
   migration and that the group would meet with Ezio on the 20th of Sept.
-- The SC discussed the Exception Groups PEP & Nathaniel's counter-proposal.The
+- The SC discussed the Exception Groups PEP & Nathaniel's counter-proposal. The
   group decided that more time was needed so they will discuss this more at
   their Sept 20th meeting.
 
@@ -17,14 +17,14 @@
   repo with a subset of issues in it for a small group to test and provide
   feedback on.
 - The Steering Council discussed [PEP 654](https://www.python.org/dev/peps/pep-0654/)(
-  Exception Groups and except*) and after some extensive deliberation, the
+  Exception Groups and *except*) and after some extensive deliberation, the
   group decided to accept.
 - Thomas sent out the notification.
 - The Steering Council discussed [PEP 649](https://www.python.org/dev/peps/pep-0649/)(
   Deferred Evaluation Of Annotations Using Descriptors) by Larry Hastings. The
   group decided that we have to tie the typing language to the Python language.
   The group discussed the potential of an informational PEP from the SC.
-- Pablo informed the SC that there will be a release party on twitch for 3.10
+- Pablo informed the SC that there will be a release party on Twitch for 3.10
   co-organized with the people from the Python discord server.
 
 # September 27
@@ -34,6 +34,6 @@
 - The SC discussed [PEP 649](https://www.python.org/dev/peps/pep-0649/)(Deferred
   Evaluation Of Annotations Using Descriptors) by Larry Hastings and decided a
   broader discussion needed to happen with python-dev. The group is inclined to
-  accept 649 but no clear path on how to handle the transition so community
+  accept 649 but there is no clear path on how to handle the transition so community
   discussion is needed.
 
