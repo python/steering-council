@@ -5,7 +5,7 @@
 - The Steering Council met with Łukasz, the Developer-in-Residence. The group
   discussed dealing with review requests and folks not giving Łukasz enough
   time to review before things are merged.
-- The group briefly described Ezio's progress as the PM for the GitHub Issues
+- The group briefly discussed Ezio's progress as the PM for the GitHub Issues
   migration and that the group would meet with Ezio on the 20th of Sept.
 - The SC discussed the Exception Groups PEP & Nathaniel's counter-proposal. The
   group decided that more time was needed so they will discuss this more at
