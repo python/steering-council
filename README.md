@@ -7,8 +7,19 @@ This repo contains activity updates, process, and planning information for the P
 These updates provide high level information about the Steering Council's
 activities.
 
-- [2019-02-26](updates/2019-02-26_steering-council-update.md)
+<!-- [[[cog
+import glob
+filenames = sorted(glob.glob("updates/*steering-council-update.md"))
+for filename in filenames:
+    date = (
+        filename.removeprefix("updates/")
+        .removesuffix("steering-council-update.md")
+        .rstrip("-_")
+    )
+    print(f"- [{date}]({filename})")
+]]] -->
 - [2019-02-15](updates/2019-02-15_steering-council-update.md)
+- [2019-02-26](updates/2019-02-26_steering-council-update.md)
 - [2019-04-26](updates/2019-04-26_steering-council-update.md)
 - [2019-07-08](updates/2019-07-08_steering-council-update.md)
 - [2019-11-09](updates/2019-11-09-steering-council-update.md)
@@ -21,6 +32,9 @@ activities.
 - [2021-05](updates/2021-05-steering-council-update.md)
 - [2021-06](updates/2021-06-steering-council-update.md)
 - [2021-07](updates/2021-07-steering-council-update.md)
+- [2021-08](updates/2021-08-steering-council-update.md)
+- [2021-09](updates/2021-09-steering-council-update.md)
+<!-- [[[end]]] -->
 
 ## Process
 
