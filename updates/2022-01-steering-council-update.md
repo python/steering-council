@@ -27,7 +27,7 @@
 * The SC discussed PEP 646 and decided that it should be accepted.
 * The SC discussed PEP 673 and decided that it should be accepted.
 * The SC started to discuss PEP 638 and after some initial considerations it was decided that the discussion will continue in the next meeting.
-* The SC decided that it would be a good idea to schedule PEP review at some near point in the future.
+* The SC decided that it would be a good idea to schedule a review of open PEPs at some near point in the future.
 * The SC discussed the possibility of doing a PyCon US keynote. Petr and Brett said that they won’t attend and the group decided that it was ok if Thomas, Greg and Pablo do it. It was decided that we should get questions online and on stage. Thomas will talk with Jackie to start organizing it.
 
 ## 2022-01-24
