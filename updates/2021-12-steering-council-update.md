@@ -3,14 +3,14 @@
 - The Steering Council met with Łukasz to discuss his progress and also
   introduced Ee to the meeting since Ee will be taking PSF lead on supporting
   Łukasz going forward. Łukasz updated the team on CLA work, testing Irit's PR,
-  adding a new triagger, and giving a keynote at the PyCode Conference.
+  adding a new triager, and giving a keynote at the PyCode Conference.
 - The Steering Council discussed the issue Jason posted about deprecating
   importlib.resources legacy API. It was decided that Brett would respond to
   the comment stating that Jason is following policy and that the SC is
   satisfied, but that the larger discussion on changing the policy should
   happen on python-dev. The group also discussed how Python's deprecation
   policy impacts users and library authors.
-- Group said their byes on Ewa's last day.
+- The group said their goodbyes on Ewa's last day.
 
 # December 13
 

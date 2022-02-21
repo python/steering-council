@@ -23,7 +23,7 @@
   on.
 - The Steering Council discussed  [PEP 663 - Standardizing Enum str(), repr(),
   and format() behaviors](https://www.python.org/dev/peps/pep-0663/) and after
-  some initial discussion, it was decided that It needs more discussion on
+  some initial discussion, it was decided that it needs more discussion on
   python-dev@.
 - The Steering Council discussed [PEP 467 -- Minor API improvements for binary
   sequences](https://www.python.org/dev/peps/pep-0467/). `bchr()` was taken out
@@ -39,12 +39,12 @@
   on. SC told Ezio not to be overly concerned with perfection and not to strive
   for it. The SC gave Ezio a deadline of Dec 7th to get everything migrated
   over.
-- The Steering Council discussed a PR to the CPython repo regarding __iter__
+- The Steering Council discussed a PR to the CPython repo regarding `__iter__`
   and iterators being inconsistently required by CPython
   (https://github.com/python/cpython/pull/29170). The SC's decision was to
   update the definitions to say it's a CPython implementation detail that it is
   inconsistent in its checking whether what an iterable returns is a proper
-  iterator or not (i.e. keep the __iter__ requirement but admit it isn't
+  iterator or not (i.e. keep the `__iter__` requirement but admit it isn't
   rigorously enforced by CPython as a historical accident). Brett committed
   updates to the PR.
 - The Steering Council discussed a pull request in the “python/voters”
@@ -52,7 +52,7 @@
   and decided it is fine to merge.
 - Carol gave an update on the documentation WG: The WG is going to a series of
   1 hour monthly meetings and then do the rollout next year of the form.
-- Barry updated the text to PEP 663 rejection and sent it out to python-dev@.
+- Barry updated the text for the PEP 663 rejection and sent it out to python-dev@.
 - Group reviewed text for "The current state of typing PEPs" (i.e. request for
   PEP 563 and 649) and Barry sent it to python-dev@.
 - The Steering Council reviewed PEP 646 (Variadic Generics) and Barry sent the
