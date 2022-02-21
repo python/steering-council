@@ -34,6 +34,8 @@ for filename in filenames:
 - [2021-07](updates/2021-07-steering-council-update.md)
 - [2021-08](updates/2021-08-steering-council-update.md)
 - [2021-09](updates/2021-09-steering-council-update.md)
+- [2021-11](updates/2021-11-steering-council-update.md)
+- [2021-12](updates/2021-12-steering-council-update.md)
 - [2022-01](updates/2022-01-steering-council-update.md)
 <!-- [[[end]]] -->
 
