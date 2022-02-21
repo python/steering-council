@@ -68,7 +68,7 @@
   upgrading the CLA process. Łukasz will reach out to Yury and Ezio.
 - The SC discussed Victor's request to remove `asynchat` and
   friends prematurely. The SC decided that the removal of `asynchat` needs to
-  wait another 6 months before it is removed.
+  wait another 6 months.
 - The SC discussed Ethan's email to the SC asking about the `re`
   module and its RegexFlag.
 - The SC discussed the exception for `Py_SET_TYPE` request. Pablo
@@ -93,6 +93,6 @@
   should be a PEP. It was determined that the informational aspect of the writeup
   is lacking such as how trade-offs are decided. The SC also discussed how different
   companies working on Python should work especially in terms of transparency. For the
-  time being there will be no commuinications about this to the PEP authors or
+  time being there will be no communications about this to the PEP authors or
   the community as the SC wants to discuss this further. This discussion will
   continue with the new SC as well.

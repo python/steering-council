@@ -3,7 +3,7 @@
 - The Steering Council met with Łukasz to discuss his progress and also
   introduced Ee to the meeting since Ee will be taking PSF lead on supporting
   Łukasz going forward. Łukasz updated the team on CLA work, testing Irit's PR
-  for Exception Grops, adding a new triager, and giving a keynote at the PyCode
+  for Exception Groups, adding a new triager, and giving a keynote at the PyCode
   Conference.
 - The Steering Council discussed the [issue Jason
   posted](https://github.com/python/steering-council/issues/89) about
