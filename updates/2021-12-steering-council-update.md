@@ -21,3 +21,22 @@
   scheduled for mid-January. Ezio will loop in Thomas on meetings with GitHub,
   which Ewa previously attended, or other SC members if Thomas can't make it.
 - The SC prepared for a Talk Python podcast recording after the meeting.
+
+# December 13 (handoff meeting)
+
+- The old Steering Council and the New Steering Council met for the handoff
+  meeting.
+- The SC discussed several aspects on how it has operated so far.
+- The SC received an updated from Thomas on the status on the search for a new
+  PSF director.
+- The SC brielfly reflected and discussed about the diversity in the Steering
+  Council and how to improve the situation in the future. This topic will be
+  discussed further in the future.
+- The SC approved a request for a wording change in [PEP 654 - Exception
+  groups](https://www.python.org/dev/peps/pep-0654/).
+- The SC had an overview of unresolved issues: definition/rules for the
+  standard library, split in communication channels and the situation regarding
+  type annotations with PEP 563 and 649.
+- The new SC decided to use discord as a new communication channel.
+- The SC discussed the status on the GitHub issues migration and what to do
+  next to push the work forward.

@@ -4,7 +4,9 @@
   Using Descriptors](https://www.python.org/dev/peps/pep-0649/) & [PEP 563 --
   Postponed Evaluation of
   Annotations](https://www.python.org/dev/peps/pep-0563/). The SC decided it
-  would tell the community that more information is needed.
+  would tell the community that more information is needed. Barry will draft
+  an email explaining the current situation and calling for help from static
+  and dynamic typing users.
 - The SC reviewed the open issues in the public Steering Council
   repo: https://github.com/python/steering-council/issues.
 - The SC discussed SC promotion during the call for nomination
@@ -54,7 +56,7 @@
   1 hour monthly meetings and then do the rollout next year.
 - Barry updated the text for the PEP 663 rejection and sent it out to python-dev@.
 - Group reviewed text for "The current state of typing PEPs" (i.e. request for
-  PEP 563 and 649) and Barry sent it to python-dev@.
+  PEP 563 and 649) and [Barry sent it to python-dev@](https://mail.python.org/archives/list/python-dev@python.org/message/VIZEBX5EYMSYIJNDBF6DMUMZOCWHARSO/).
 - The SC reviewed PEP 646 (Variadic Generics) and Barry sent the
   approval to the PEP team.
 - The SC discussed how notes will be taken after Ewa leaves.
