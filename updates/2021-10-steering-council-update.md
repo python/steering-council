@@ -2,11 +2,11 @@
 
 - No regular meeting because of the Python 3.10 release. A subset of the SC
   had a call with the GitHub Issues PM to discuss progress, problems and
-  possibly solutions.
+  possible solutions.
 
 # October 11
 
-- SC met with the Developer-in-REsidence and provided feedback on [the
+- SC met with the Developer-in-Residence and provided feedback on [the
   Developer-in-Residence activity blog](https://lukasz.langa.pl/f15a8851-af26-4e94-a4b1-c146c57c9d20/).
 - SC decided to keep 2020 dates for 2021 election.
 - SC discussed the draft about the SC's position on the
@@ -15,7 +15,7 @@
   situation (stringified annotations) and provided feedback.
 - SC discussed whether or not they should extend their weekly meetings
   and/or do more async communications. They also decided that the SC should
-  continue meetings and working during the elections.
+  continue having meetings and working during the elections.
 
 # October 18
 
@@ -38,10 +38,11 @@
 
 - Steering Council did a one hour Q&A recorded session with Visionary
   sponsor, Bloomberg.
-- Steering Council discussed PEP 649 and PEP 563 (stringified annotations).
+- Steering Council discussed [PEP 649](https://www.python.org/dev/peps/pep-0649/)
+  and [PEP 563](https://www.python.org/dev/peps/pep-0563/) (stringified annotations).
   The group may want to delegate this to Łukasz but will discuss this more
   next week.
 - The candidate PEP Delegate for [PEP 663](https://www.python.org/dev/peps/pep-0663/)
-  (Standardizing Enum str(), repr(),
-  and format() behaviors) declined. The Steering Council will think of who
-  else it can be delegated to, or take it on themselves.
+  (Standardizing Enum str(), repr(), and format() behaviors) declined. The
+  Steering Council will think of who else it can be delegated to, or take it
+  on themselves.
