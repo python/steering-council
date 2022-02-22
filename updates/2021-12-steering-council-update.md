@@ -29,7 +29,7 @@
 - The SC discussed several aspects on how it has operated so far.
 - The SC received an updated from Thomas on the status on the search for a new
   PSF director.
-- The SC brielfly reflected and discussed about the diversity in the Steering
+- The SC briefly reflected and discussed the diversity in the Steering
   Council and how to improve the situation in the future. This topic will be
   discussed further in the future.
 - The SC approved a request for a wording change in [PEP 654 - Exception
