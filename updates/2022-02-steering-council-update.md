@@ -18,7 +18,7 @@
 - The SC reviewed some of the pending draft replies for PEPs and other communications.
 - The SC discussed and accepted PEP 680 (tomllib).
 - The SC discussed the status of the typing PEPs (PEP 649 and PEP 563) and how to move them forward.
-- The SC discussed some details of PEP 678 (Eriching Exceptions with Notes).
+- The SC discussed some details of PEP 678 (Enriching Exceptions with Notes).
 - The SC discussed PEP 675 (Arbitrary Literal String Type) and how to handle typing PEPs in the future.
 - The SC accepted PEP 594 (removing dead batteries from the standard library) and accepted it.
 
