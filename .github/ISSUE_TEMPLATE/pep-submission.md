@@ -24,6 +24,8 @@ https://www.python.org/dev/peps/pep-xxxx/
 * [ ] The PEP includes all relevant [Suggested Sections](https://peps.python.org/pep-0012/#suggested-sections)
 * [ ] The PEP includes endorsements from the projects/groups/people it helps
   <!-- e.g. if you say “this feature would help NumPy”, back it up with a statement from NumPy developers -->
+* [ ] The PEP has a CODEOWNERS entry
+  <!-- https://github.com/python/peps/blob/main/.github/CODEOWNERS -->
 
 SIG-specific:
 * [ ] *typing-sig* PEPs: link to Guido/Jelle's summary of the typing-sig discussion: 
