@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <!--
- Submitting to the SC is one of the last steps PEP 1: https://peps.python.org/pep-0001/
+ Submitting to the SC is one of the last steps listed in PEP 1: https://peps.python.org/pep-0001/
  Congratulations for making it this far!
  Please fill in the blanks below, and double-check you haven't forgotten something. (Feel free to edit the checklist -- each PEP is different!)
 -->
