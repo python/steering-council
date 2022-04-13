@@ -15,9 +15,9 @@ assignees: ''
 
 <!-- Fill in the blanks: -->
 Please consider PEP xxx -- <PEP title here>
-https://www.python.org/dev/peps/pep-xxxx/
+https://peps.python.org/pep-xxxx/
 
-* [ ] The PEP has been discussed in threads listed in its `Post-History` header.
+* [ ] The PEP has been discussed in threads listed in its `Post-History` header
   <!-- You can add extra discussion links here, e.g. to individual comments. -->
 * [ ] The PEP was annonunced on the python-dev list (link in `Post-History`)
   <!-- Generally you should wait about a week for people to react there before filing this issue. -->
