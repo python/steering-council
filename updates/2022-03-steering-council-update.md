@@ -16,7 +16,7 @@
 * The SC discussed PEP 678 (Enriching Exception with Notes), and found it still too complex. Questions and suggestions to go on the Discourse thread.
 * The SC accepted PEP 655 (Marking individual TypedDict items as required or potentially-missing).
 * The SC decided to ask typing-sig for delegates, and to convert PEPs to specifications.
-* The SC discussed finding a release manager for 3.11-3.12.
+* The SC discussed finding a release manager for 3.12-3.13.
 * The SC discussed gathering information on typing annotation PEPs (564, 649).
 
 ## 2022-03-21
