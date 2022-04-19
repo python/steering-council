@@ -23,7 +23,7 @@
 
 * The SC discussed the recent 3.9/3.10 security releases.
 * The SC discussed finding a release manager for 3.11-3.12.
-* The SC agreed on the acceptance notices for PEPs 665 and 675.
+* The SC agreed on the acceptance notices for PEPs 655 and 675.
 * The SC discussed PEP 678 (Enriching Exception with Notes), and decided to wait for more discussions. 
 * The SC discussed 2-factor authentication for the CPython repo.
 * The SC discussed the future of the Developer in Residence role.
@@ -31,7 +31,7 @@
 
 ## 2022-03-28
 
-* The SC met with the Developer in Residence to discuss the delayed GitHub issues migrationCLA bot, PyCon keynotes, and 3.9/3.10 security releases.
+* The SC met with the Developer in Residence to discuss the delayed GitHub issues migration, CLA bot, PyCon keynotes, and 3.9/3.10 security releases.
 * The SC met with the Director of Operations to discuss 2-factor authentication (to be handled after PyCon US).
 * The SC discussed PEP 678 (Enriching Exception with Notes).
 * The SC discussed PEP 670 (Convert macros to functions in the Python C API).
