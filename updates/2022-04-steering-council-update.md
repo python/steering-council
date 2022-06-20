@@ -70,7 +70,7 @@
 * Discussed what role the python-ideas mailing list has.
 * Discussed what topics we should bring up at the language summit.
 * Discussed how we'd like to see PEPs discussed.
-* Discussed release managment team woes and bus factors.
+* Discussed release management team woes and bus factors.
 * Discussed the new C API tier again this time called "semi-stable".
 * Discussed shoving `mailcap` into [PEP-594](https://peps.python.org/pep-0594/):
   unanimous yes.
