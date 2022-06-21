@@ -6,6 +6,8 @@
   [PEP-523](https://peps.python.org/pep-0523/) (Adding a frame evaluation API
   to CPython), for example, added vs a desire
   for perhaps a stable only within bugfixes API tier.
+  [Note from the future: this discussion later led to [PEP-689](https://peps.python.org/pep-0689/)
+  (Unstable C API tier).]
 * As to the question of should the PEP-523 APIs stay as is? General consensus
   was "yes". Less disruptive.
 * Discussed clarifying a backwards compatibility policy regarding things which
