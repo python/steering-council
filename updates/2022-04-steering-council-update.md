@@ -2,10 +2,11 @@
 
 ## 2022-04-04
 
-* Discussed CPython public C APIs with underscores in them as
+* Discussed CPython public C APIs with leading underscores in them as in
   [PEP-523](https://peps.python.org/pep-0523/) (Adding a frame evaluation API
-  to CPython), for example, added vs a desire
-  for perhaps a stable only within bugfixes API tier.
+  to CPython), for example, and the desire
+  for perhaps a stable only within bugfixes API tier marked by semantics
+  other than leading underscores (which should be reserved for private APIs).
   [Note from the future: this discussion later led to [PEP-689](https://peps.python.org/pep-0689/)
   (Unstable C API tier).]
 * As to the question of should the PEP-523 APIs stay as is? General consensus
