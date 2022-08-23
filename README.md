@@ -41,6 +41,7 @@ for filename in filenames:
 - [2022-02](updates/2022-02-steering-council-update.md)
 - [2022-03](updates/2022-03-steering-council-update.md)
 - [2022-04](updates/2022-04-steering-council-update.md)
+- [2022-05](updates/2022-05-steering-council-update.md)
 <!-- [[[end]]] -->
 
 ## Process
