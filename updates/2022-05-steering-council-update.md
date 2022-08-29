@@ -2,7 +2,7 @@
 
 ## 2022-05-02
 
-* SC members who attended PyCon US gave a summary of the Language Summit..
+* SC members who attended PyCon US gave a summary of the Language Summit.
 * The SC discussed topics brought up at the Summit:
   * Removing the GIL and switching to mimalloc
   * Subinterpreters
@@ -36,7 +36,7 @@
 
 ## 2022-05-16
 
-Meeting was skipped. Only 2 SC members could make it..
+Meeting was skipped. Only 2 SC members could make it.
 
 ## 2022-05-23
 
