@@ -22,3 +22,9 @@ Standing Delegations:
 
 [PyPA Specifications]: https://packaging.python.org/specifications/
 [PyPA Documentation]: https://www.pypa.io/en/latest/specifications/
+
+As an exception to the process documented in PEP 1, these PEPs should
+be announced/discussed in the [Packaging category] on Discourse,
+instead of the PEPs category.
+
+[Packaging category]: https://discuss.python.org/c/14
