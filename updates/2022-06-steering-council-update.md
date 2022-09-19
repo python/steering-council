@@ -21,7 +21,7 @@
 * The SC discussed that organizations want to give the PSF money for Security work.
 * The SC discussed Python Core Dev Sprint hosting, October timeframe.
 * The SC discussed using Github Projects for steering council work visibility.
-* The SC scheduled a talk with the new manager of their faster CPython team.
+* The SC scheduled a talk with the new manager of Microsoft's Faster CPython team.
 * The SC discussed more on what GitHub `python/` org should contain.
   PSF license CLA requirement is per org and projects that aren't
   strictly CPython don't feel right in there.
