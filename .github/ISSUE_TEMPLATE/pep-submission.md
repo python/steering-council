@@ -19,7 +19,7 @@ https://peps.python.org/pep-xxxx/
 
 * [ ] The PEP has been discussed in threads listed in its `Post-History` header
   <!-- You can add extra discussion links here, e.g. to individual comments. -->
-* [ ] The PEP was annonunced on the python-dev list (link in `Post-History`)
+* [ ] The PEP was annonunced on [Discuss](https://discuss.python.org/c/peps/19) (link in `Post-History`)
   <!-- Generally you should wait about a week for people to react there before filing this issue. -->
 * [ ] The PEP includes all relevant [Suggested Sections](https://peps.python.org/pep-0012/#suggested-sections)
 * [ ] The PEP includes endorsements from the projects/groups/people it helps
