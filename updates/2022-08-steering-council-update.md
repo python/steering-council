@@ -86,8 +86,7 @@
   should gather input from the core devs on that. It was proposed to ask people
   attending the core dev sprint as a first measure.
 
-## 2022-08-22
-
+## 2022-08-29
 
 * The SC met with the Developer in Residence and discussed:
     * Bot/CLA hosting and Heroku tiers.
