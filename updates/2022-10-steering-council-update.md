@@ -11,7 +11,7 @@
 
 ## 2022-10-17
 * The Steering Council started planning the next SC election.
-* The Steering Council discussed two new core developers, saw no reasons for a veto
+* The Steering Council discussed two new core developers, saw no reasons for a veto.
 * The Steering Council discussed [PEP 692](https://peps.python.org/pep-0692/) (Using TypedDict for more precise \*\*kwargs typing), and decided to express concerns in the Discourse topic.
 * The Steering Council discussed [PEP 669](https://peps.python.org/pep-0669/) (Low Impact Monitoring for CPython), agreed to accept in but decided to be careful in messaginig about the acceptance.
 * The Steering Council discussed [PEP 683](https://peps.python.org/pep-0683/) (Immortal Objects, Using a Fixed Refcount), agreed to accept it despite concerns about ABI breakage.
