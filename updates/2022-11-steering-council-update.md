@@ -17,7 +17,6 @@
   Monitoring for CPython](https://peps.python.org/pep-0669/) and decided to accept
   it.
 - The Steering Council discussed some performance aspects of [PEP 683 – Immortal Objects](https://peps.python.org/pep-0683/).
-- The Steering Council approved (did not veto) the promotion of Filipe Laíns.
 
 ## 2022-11-14
 
