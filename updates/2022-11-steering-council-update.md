@@ -11,7 +11,7 @@
   discussed several things that can be done to improve this situation such as using GitHub Actions
   or collecting a bunch of search URLs to help people find these PRs.
 - The Steering Council discussed the timeline for the Steering Council Elections. The group asked
-  Ee to prepare to start the process with a similar timeline as previous years: 1
+  Ee to prepare to start the process with a similar timeline as previous years: 2
   weeks + 1 week in between + 2 weeks (nominations + discussion + election).
 - The Steering Council discussed some remaining aspects of [PEP 669 – Low Impact
   Monitoring for CPython](https://peps.python.org/pep-0669/) and decided to accept
@@ -33,7 +33,7 @@
   of Łukasz's time was spent setting up a new machine for bigmem buildbots and
   Windows debugging/development.
 - The Steering Council discussed the next steps for encouraging mentorship.
-- The Steering Council approved (did not veto) new core developers -- Hugo Kemenade & Kumar Aditya.
+- The Steering Council approved (did not veto) new core developers -- Hugo van Kemenade & Kumar Aditya.
 - The Steering Council discussed concerns about the process for new core devs (regarding how
   public comments may affect the candidate in different ways). The group
   agreed that as changing this process is not in the Steering Council mandate, the discussion
