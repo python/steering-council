@@ -10,8 +10,8 @@
   tier)](https://peps.python.org/pep-0689/).
 - The SC discussed and accepted [PEP 699 (Remove private dict version field
   added in PEP 509)](https://peps.python.org/pep-0699/).
-- The SC discussed the state of the effort to require 2FA in the python
-  repo.
+- The SC discussed the state of the effort to require 2FA in the
+  [python](https://github.com/python) organisation.
 - The SC discussed [PEP 692 (Using TypedDict for more precise **kwargs
   typing)](https://peps.python.org/pep-0692/) and decided to ask if the
   typing community has a PEP delegate, now that the PEP no longer includes
