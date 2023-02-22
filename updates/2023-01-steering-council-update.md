@@ -56,8 +56,6 @@
   overview of the finances and the travel grant
   policy](https://discuss.python.org/t/cpython-finances-and-pycon-us-travel-grants/23507)
   to Discourse.
-- The SC discussed the proposed "Principles of Safer Developer Ecosystems"
-  and how it would apply to CPython.
 - The SC discussed the Core Developer promotion process and whether it's being
   applied fairly. Consensus is that this should be discussed with the wider
   Core Dev community.
