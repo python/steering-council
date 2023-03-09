@@ -5,7 +5,8 @@ This repo contains activity updates, process, and planning information for the P
 ## Updates
 
 These updates provide high level information about the Steering Council's
-activities.
+activities. [Subscribe to updates in your feedreader via the Atom 
+feed for repository commits](https://github.com/python/steering-council/commits/main.atom).
 
 <!-- [[[cog
 import glob
