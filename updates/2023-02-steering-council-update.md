@@ -29,5 +29,7 @@
 
 ## 2023-02-27
 
-- The SC discussed PEP 701 and accepted it.
-- The SC discussed PEP 582 in depth.
+- The SC discussed [PEP 701](Syntactic formalization of
+  f-strings)](https://peps.python.org/pep-0701/) and accepted it.
+- The SC discussed [PEP 582](Python local packages
+  directory)](https://peps.python.org/pep-0582/) in depth.
