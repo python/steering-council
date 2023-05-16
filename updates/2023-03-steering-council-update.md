@@ -5,7 +5,7 @@
     - Future funding for the DiR position
 - The SC reviewed code of conduct reports.
 - The SC discussed PEP 697 and accepted it.
-- The SC discussed the state of packaging and Python and how we can best support forward momentum for it
+- The SC discussed the state of packaging and Python and how we can best support forward momentum for it.
 
 ## 2023-03-13
 
