@@ -27,8 +27,8 @@
       Descriptors)](https://peps.python.org/pep-0649/)
     - [696 (Type defaults for
       TypeVarLikes)](https://peps.python.org/pep-0696/)
-    - [707 (A simplified signature for __exit__ and
-      __aexit__)](https://peps.python.org/pep-0707/)
+    - [707 (A simplified signature for \_\_exit\_\_ and
+      \_\_aexit\_\_)](https://peps.python.org/pep-0707/)
     - [709 (Inlined comprehensions)](https://peps.python.org/pep-0709/).
 - Briefly discussed property-based testing.
 - Discussed what was missing from Tier 1 platforms and why (aarch64 macOS).
