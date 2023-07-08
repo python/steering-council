@@ -15,8 +15,8 @@
 - The SC discussed [PEP 659 (Specializing Adaptive
   Interpreter)](https://peps.python.org/pep-0659/) and decided to ask for it
   to be withdrawn since it did not need to be a PEP.
-- The SC briefly discussed [PEP 707 (A simplified signature for \__exit\__ and
-  \__aexit\__)](https://peps.python.org/pep-0707/) and [709 (Inlined
+- The SC briefly discussed [PEP 707 (A simplified signature for \_\_exit\_\_ and
+  \_\_aexit\_\_)](https://peps.python.org/pep-0707/) and [709 (Inlined
   comprehensions)](https://peps.python.org/pep-0709/).
 
 ## 2023-04-10
