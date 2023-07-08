@@ -20,18 +20,22 @@
 
 ## 2023-05-08
 
-- [PEP 649 (Deferred Evaluation Of Annotations Using
-  Descriptors)](https://peps.python.org/pep-0649/) changes accepted
-- [PEP 689 (Unstable C API tier)](https://peps.python.org/pep-0689/) changes
-  accepted
-- Accept [PEP 709 (Inlined
-  comprehensions)](https://peps.python.org/pep-0709/)
-- Postpone [PEP 649 Deferred Evaluation Of Annotations Using
-  Descriptors)](https://peps.python.org/pep-0649/) until 3.13
-- Postpone [PEP 702 (Marking deprecations using the type
-  system)](https://peps.python.org/pep-0702/) until 3.13
-- Postpone [PEP 696 (Type defaults for
-  TypeVarLikes)](https://peps.python.org/pep-0696/) until 3.13
+
+- [Proposed post-acceptance
+  changes](https://github.com/python/steering-council/issues/187) to [PEP
+  649 (Deferred Evaluation Of Annotations Using
+  Descriptors)](https://peps.python.org/pep-0649/) accepted.
+- [Proposed post-acceptance
+  changes](https://github.com/python/steering-council/issues/185) to [PEP
+  689 (Unstable C API tier)](https://peps.python.org/pep-0689/) accepted.
+- Accepted [PEP 709 (Inlined
+  comprehensions)](https://peps.python.org/pep-0709/).
+- Postponed [PEP 649 (Deferred Evaluation Of Annotations Using
+  Descriptors)](https://peps.python.org/pep-0649/) until 3.13.
+- Postponed [PEP 702 (Marking deprecations using the type
+  system)](https://peps.python.org/pep-0702/) until 3.13.
+- Postponed [PEP 696 (Type defaults for
+  TypeVarLikes)](https://peps.python.org/pep-0696/) until 3.13.
 
 ## 2023-05-15
 

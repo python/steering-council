@@ -3,11 +3,11 @@
 - The Steering Council met with the Developer-in-Residence Łukasz and
   discussed:
     - Status of the current release, which is being held due to OpenSSL
-      issues
+      issues.
     - Work on [PEP 667 (Consistent views of
-      namespaces)](https://peps.python.org/pep-0667/)
-    - Updates to and the future of pdb
-    - Cultural norms for candy and egg consumption for Easter holidays
+      namespaces)](https://peps.python.org/pep-0667/).
+    - Updates to and the future of pdb.
+    - Cultural norms for candy and egg consumption for Easter holidays.
 - The SC discussed and accepted [PEP 684 (A Per-Interpreter
   GIL)](https://peps.python.org/pep-0684/).
 - The SC discussed and accepted [PEP 695 (Type Parameter
@@ -37,8 +37,8 @@
 
 ## 2023-04-17
 
-- No meeting due to PyCon US
+- No meeting due to PyCon US.
 
 ## 2023-04-24
 
-- No meeting due to PyCon US
+- No meeting due to PyCon US.
