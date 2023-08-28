@@ -34,7 +34,7 @@
   - The SC asked the DiR to evaluate how we could require code reviews for feature PRs.
 - The SC discussed support for core developer mentorship, namely the budget around a proposal to do an inventory of the current mentorship program.
 - The SC gave our approval to the Security Developer-in-Residence for their CNA proposal.
-- The SC. discussed updating non-borrowing C APIs to match borrowing ones.
+- The SC discussed updating non-borrowing C APIs to match borrowing ones.
 - The SC continued to discuss [PEP 703 (Making the Global Interpreter Lock Optional in CPython)](https://peps.python.org/pep-0703/).
 
 ## 2023-07-31
