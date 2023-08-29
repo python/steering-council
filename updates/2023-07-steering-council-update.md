@@ -12,11 +12,11 @@
   - EuroPython, which is happening next week. Łukasz will be giving a talk and running a panel along with sprints
 - The SC continued to discuss support for core developer mentorship with Deb. The distinction between supporting mentorship for new core developers and improving the process of becoming a core developer was raised – we are specifically looking for how to support existing core developers in mentoring contributors. The SC decided to pause the discussion to solidify what we are looking for in this arrangement.
 - The SC discussed [PEP 703 (Making the Global Interpreter Lock Optional in CPython)](https://peps.python.org/pep-0703/).
-  - The [poll results are in](https://www.notion.so/Weekly-Meeting-Notes-1715f30c2d3d4b8699adb5778e83d695?pvs=21) and indicate that 87% of respondents think we should be actively looking to make Python free-threaded and 63% want to accept and support the maintenance cost of PEP 703.
+  - The [poll results are in](https://discuss.python.org/t/poll-feedback-to-the-sc-on-making-cpython-free-threaded-and-pep-703/28540) and indicate that 87% of respondents think we should be actively looking to make Python free-threaded and 63% want to accept and support the maintenance cost of PEP 703.
   - Proceeding with caution, the SC decided to formalize a statement on our intention to accept the PEP, along with requirements and expectations for doing so.
-- The SC discussed two C API changes in 3.12 that did not follow PEP-387 to decide how they should be handled, namely:
-  - Type Object’s tp_dict can now be NULL. This has limited impact and is likely acceptable.
-  - PyLongObject implementation and ob_digits. The SC decided to roll back changes only in 3.12, not main (3.13) for now. Overall, this change is okay.
+- The SC discussed two C API changes in 3.12 that did not follow [PEP 387 (Backwards Compatibility Policy)](https://peps.python.org/pep-0387/) to decide how they should be handled, namely:
+  - Type Object’s `tp_dict` can now be `NULL`. This has limited impact and is likely acceptable.
+  - `PyLongObject` implementation and `ob_digits`. The SC decided to roll back changes only in 3.12, not main (3.13) for now. Overall, this change is okay.
 - The SC checked in on requiring PR reviews; a [poll has been opened](https://discuss.python.org/t/sc-poll-should-we-require-reviews-to-merge-all-prs/29410).
 
 ## 2023-07-17
@@ -28,7 +28,7 @@
 ## 2023-07-24
 
 - The Steering Council met with Łukasz, the Developer-in-Residence, and discussed:
-  - How Europython went (both the conference and the sprints).
+  - How EuroPython went (both the conference and the sprints).
   - dtrace and how to test the probes so they keep functioning.
   - Miss Islington needs porting to GitHub Actions before we can switch over to requiring 2FA.
   - The SC asked the DiR to evaluate how we could require code reviews for feature PRs.

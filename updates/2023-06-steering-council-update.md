@@ -25,7 +25,7 @@
 - The Steering Council met with Seth Larson, the new Security Developer-in-Residence. One of Seth’s tasks is to improve the process behind the Python Security Response Team (PSRT), and to investigate the PSRT or PSF becoming a MITRE Sub-CNA, so it has authority over the reporting and ranking of CVEs. Seth will be working mostly with the PSRT team, only planning to have email discussions or ad-hoc meetings with the SC for now.
 - The SC met with Łukasz, the Developer-in-Residence, and discussed:
   - Łukasz handling the macOS installer build as well as the Windows build for 3.12 beta 4.
-  - His keynote at [PyCon Colombia](https://2023.pycon.co/).
+  - His [keynote](https://youtube.com/watch?v=B7U049ll4Rs) at [PyCon Colombia](https://2023.pycon.co/).
   - A new EdgeDB release that should alleviate CLA bot inefficiencies.
   - EuroPython, his planned talk, the Core Dev panel, and the sprints there.
   - The Deputy Developer-in-Residence job opening, which will be posted this week.
