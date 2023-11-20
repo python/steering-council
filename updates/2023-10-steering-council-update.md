@@ -33,4 +33,4 @@
     - General buildbot statuses and updates to fix buildbot slowness.
 - The SC discussed their options and logistics for hiring an external person to take meeting minutes during weekly meetings and opted to defer this decision to the next SC.
 - The SC confirmed that the details for the upcoming SC election are approved.
-- The SC discussed [requests for the breaking change in the Tkinter method `wm_attributes()`](https://github.com/python/steering-council/issues/211) and decided that they think that [PEP-387 (Backwards Compatibility Policy)](https://peps.python.org/pep-0387/) applies, so the answer for now is yes.
+- The SC discussed [requests for the breaking change in the Tkinter method `wm_attributes()`](https://github.com/python/steering-council/issues/211) and decided that [PEP-387 (Backwards Compatibility Policy)](https://peps.python.org/pep-0387/) should apply and the change should follow a proper deprecation.
