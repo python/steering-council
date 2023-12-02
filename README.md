@@ -72,11 +72,11 @@ future Steering Council members.
 
 ## Reference
 
-- [PEP 1 PEP Purpose and Guidelines](https://github.com/python/peps/blob/main/pep-0001.txt)
-- [PEP 13 Python Language Governance](https://github.com/python/peps/blob/main/pep-0013.rst) (including [list of current Steering Council members](https://www.python.org/dev/peps/pep-0013/#current-steering-council))
-- [PEP 8001 Python Governance Voting Process](https://github.com/python/peps/blob/main/pep-8001.rst)
-- [PEP 8016 The Steering Council Model](https://github.com/python/peps/blob/main/pep-8016.rst)
-- [PEP 8100 January 2019 steering council election](https://github.com/python/peps/blob/main/pep-8100.rst)
-- [PEP 8101 December 2019 steering council election](https://github.com/python/peps/blob/main/pep-8101.rst)
-- [PEP 8102 2021 Term steering council election](https://github.com/python/peps/blob/main/pep-8102.rst)
-- [PEP 8103 2022 Term steering council election](https://github.com/python/peps/blob/main/pep-8103.rst)
+- [PEP 1 PEP Purpose and Guidelines](https://github.com/python/peps/blob/main/peps/pep-0001.txt)
+- [PEP 13 Python Language Governance](https://github.com/python/peps/blob/main/peps/pep-0013.rst) (including [list of current Steering Council members](https://www.python.org/dev/peps/pep-0013/#current-steering-council))
+- [PEP 8001 Python Governance Voting Process](https://github.com/python/peps/blob/main/peps/pep-8001.rst)
+- [PEP 8016 The Steering Council Model](https://github.com/python/peps/blob/main/peps/pep-8016.rst)
+- [PEP 8100 January 2019 steering council election](https://github.com/python/peps/blob/main/peps/pep-8100.rst)
+- [PEP 8101 December 2019 steering council election](https://github.com/python/peps/blob/main/peps/pep-8101.rst)
+- [PEP 8102 2021 Term steering council election](https://github.com/python/peps/blob/main/peps/pep-8102.rst)
+- [PEP 8103 2022 Term steering council election](https://github.com/python/peps/blob/main/peps/pep-8103.rst)
