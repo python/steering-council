@@ -73,7 +73,7 @@ future Steering Council members.
 ## Reference
 
 - [PEP 1 PEP Purpose and Guidelines](https://peps.python.org/pep-0001/)
-- [PEP 13 Python Language Governance](https://peps.python.org/pep-0013/) (including [list of current Steering Council members](https://www.python.org/dev/peps/pep-0013/#current-steering-council))
+- [PEP 13 Python Language Governance](https://peps.python.org/pep-0013/) (including [list of current Steering Council members](https://peps.python.org/pep-0013/#current-steering-counci))
 - [PEP 8001 Python Governance Voting Process](https://peps.python.org/pep-8001/)
 - [PEP 8016 The Steering Council Model](https://peps.python.org/pep-8016/)
 - [PEP 8100 January 2019 steering council election](https://peps.python.org/pep-8100/)
