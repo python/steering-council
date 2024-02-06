@@ -28,7 +28,7 @@ https://peps.python.org/pep-xxxx/
   <!-- https://github.com/python/peps/blob/main/.github/CODEOWNERS -->
 
 SIG-specific:
-* [ ] *typing-sig* PEPs: link to the [Typing Council](https://github.com/python/typing-council)'s recommendation for the PEP:
+* [ ] *Typing* PEPs: link to the [Typing Council](https://github.com/python/typing-council)'s recommendation for the PEP:
 * [ ] *Packaging* PEPs: don't file the issue here, ask the delegate (Paul Moore) on [Packaging Discourse](https://discuss.python.org/c/packaging/14)
 
 <!-- Thank you for your proposal to improve Python! -->
