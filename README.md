@@ -5,19 +5,19 @@ This repo contains activity updates, process, and planning information for the P
 ## Office Hours
 
 The Steering Council has office hours for anyone in the community that wants to
-discuss something with the Steering Council. Office hours are bookable half
-hour video calls at the start of our regular weekly meeting. Currently it’s 30
-minutes on Wednesday, 17:30 GMT (check your timezone [here](https://www.timebie.com/std/gmt.php?q=17.5)).
+discuss something with the Steering Council. Office hours are bookable
+half-hour video calls at the start of our regular weekly meeting. Currently
+it’s 30 minutes on Wednesday, 17:30 GMT (check your timezone [here](https://www.timebie.com/std/gmt.php?q=17.5)).
 
 These meetings can be used by Core Devs, PEP authors and anyone else
 contributing to Python to discuss things they want to discuss with the Steering
 Council, when email or a GitHub ticket is for whatever reason not as desirable.
 
-Scheduling is done through a [Google Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUtnZXJMbl9OM3J3fGRlZmF1bHR8YWE1ZDg2MWUyZTIwYTI0NDFlNjVlOTM4Y2U3NjU2MDk). When booking a slot, please make
+Scheduling is done through [Google Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUtnZXJMbl9OM3J3fGRlZmF1bHR8YWE1ZDg2MWUyZTIwYTI0NDFlNjVlOTM4Y2U3NjU2MDk). When booking a slot, please make
 sure to do so at least 3 days in advance, and if possible include the topic in
 the appointment so we can be prepared. For longer chats, different schedules
 (we realise the current time isn’t always good for everyone), or pressing
-matters, contact us directly; we can always arrange something else.
+matters, contact us directly. We can always arrange something else.
 
 ## Updates
 
