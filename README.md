@@ -4,9 +4,9 @@ This repo contains activity updates, process, and planning information for the P
 
 ## Office Hours
 
-The Steering Council has office ours for anyone in the community that wants to
+The Steering Council has office hours for anyone in the community that wants to
 discuss something with the Steering Council. Office hours are bookable half
-hour video call right before our regular weekly meeting. Currently it’s 30
+hour video calls at the start of our regular weekly meeting. Currently it’s 30
 minutes on Wednesday, 17:30 GMT (check your timezone [here](https://www.timebie.com/std/gmt.php?q=17.5)).
 
 These meetings can be used by Core Devs, PEP authors and anyone else
