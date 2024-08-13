@@ -30,7 +30,7 @@
     - Discussed capacity issues at the upcoming September core dev sprint; space limitations are real and lead to hard choices.
     - Discussed logistics of the remaining two core dev. mentorship sessions that Edward is holding this quarter. *(editors note: held)*
     - Discussed further ongoing core dev mentorship needs and the utility of a possible Mentorship WG. One theme has always been lack of volunteer time availability.
-    - Discussed how it'd be good if release managers wrote up retrospectives. That requires extra time committment on their part. We'd all benefit, not just future RMs.
+    - Discussed how it'd be good if release managers wrote up retrospectives. That requires extra time commitment on their part. We'd all benefit, not just future RMs.
     - Discussed our recent core dev promotion votes. No vetoes (all approved). We're noticing that our process feels a bit odd, the SC represents the community thus a veto of any form would not be well received. Nor would a vote itself failing. So this means anyone proposing someone effectively needs to do homework and talk via backchannels to a slew of core devs and SC first to ensure that neither negative outcome is likely. Maybe this is working as intended? But we don't state it as such anywhere... But what would be meaningfully better to propose?
     - Discussed and announced who would be our next Release Manager (RM) and related logistical issues.
     - Continual brainstorming on what to include in what form for our PyCon US 2024 keynote address. In classic PyCon fashion our collective presentation was congealing up until the day we gave it.
