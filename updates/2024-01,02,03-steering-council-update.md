@@ -13,7 +13,7 @@
     - Lack of use of our SC Office Hours slot and the need to better promote those.
     - **PEPs**
         - Rejected [PEP 726 module `__setattr__` and `__delattr__`](https://peps.python.org/pep-0726/) after reviewing it and the resulting discussions. Drafted and posted the pronouncement.
-        - Discussed Windows free-threaded [PEP-703](https://peps.python.org/pep-0703/) installer design details.
+        - Discussed Windows free-threaded [PEP 703](https://peps.python.org/pep-0703/) installer design details.
         - Many discussions on [PEP 712 dataclass converters](https://peps.python.org/pep-0712/). *(editors note: ultimately rejected)*.
         - Accepted [PEP 737 C API to format a types fully qualified name](https://peps.python.org/pep-0737/) after much discussion; including raising [a concern about a name choice and overall scope](https://discuss.python.org/t/pep-737-unify-type-name-formatting/39872/51).
         - Accepted [PEP 705 TypedDict: Read-only items](https://peps.python.org/pep-0705/) per the Typing Council's recommendation.
