@@ -8,7 +8,7 @@
         - At least 20 people applied!
         - Interviewed N candidates, rejected the others. Made a choice and sent a job offer.
         - *Editors note: Our initial job. req. described this role as "Secretary". We all agreed that role title was not great and settled upon a much more appropriate title of "Communications Liaison" with the individual hired.*
-    - Pablo coordinating with Edward for our core dev. mentorship training sessions.
+    - Pablo coordinating with Edward for our core dev mentorship training sessions.
         - The first mentoring session happened in March. Observation: We *also* used the first one as experience sharing talk time. Note to future selves: We could set our own mini-sessions up just for that.
     - Lack of use of our SC Office Hours slot and the need to better promote those.
     - **PEPs**
