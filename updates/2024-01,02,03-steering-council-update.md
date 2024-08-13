@@ -37,7 +37,7 @@
         - The importance of transparency and good communication for the health of the community.
         - Ongoing [PEP 541 Package Index Name Retention](https://peps.python.org/pep-0541/) work.
         - The status of [PEP 649 deferred eval of annotations](https://peps.python.org/pep-0649/).
-        - Community misconceptions revealed when when talking at a small conference about our upcoming Python 3.13.
+        - Community misconceptions revealed when talking at a small conference about our upcoming Python 3.13.
         - The PyCon 2024 US language summit logistics.
         - The need to provide feedback to our DiRs.
     - More thoughts on what we want our PyPI org policy to be.
