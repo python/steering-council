@@ -1,0 +1,35 @@
+# November & December 2023 Steering Council update
+
+- Steering Council discussion topics:
+    - **PEPs**
+        - Confirmed our agreement to accept [PEP 702 deprecations in the type system](https://peps.python.org/pep-0702/).
+        - Discussed our first impressions of [PEP 712 dataclasses converters](https://peps.python.org/pep-0712/). Decided to seek more consensus. [We announced this PEP 712 feeling on discuss](https://discuss.python.org/t/pep-712-adding-a-converter-parameter-to-dataclasses-field/26126/57).
+        - Discussed, read up on, and accepted [PEP 729 Typing Governance](https://peps.python.org/pep-0729/).
+        - Discussed, read up on, and accepted [PEP 731 C API Working Group](https://peps.python.org/pep-0731/).
+        - Briefly discussed [PEP 726 module level `__setattr__` and `__delattr__`](https://peps.python.org/pep-0726/). We expect the 2024 SC to decide. *(editors note: It was rejected)*
+        - Discussed [PEP-703 making the global interpreter lock optional](https://peps.python.org/pep-0703/) naming and a desire to avoid putting negatives on the desired-to-be-legacy GIL term, thus "free-threading" rather than "nogil".
+        - Discussed and accepted [PEP 730 iOS platform support](https://peps.python.org/pep-0730/).
+        - Discussed and accepted [PEP 732 documentation editorial board](https://peps.python.org/pep-0732/).
+    - Accepting Meta’s offer to host the core dev sprints in Washington in September 2024.
+    - The proposal for mentoring resources and how to gauge interest. Coordinated with the PSF for budget and a contract to make it happen.
+    - C API issues regarding removal of some APIs and potential conflicting goals.
+    - The status of our Supporting Developer in Residence contract.
+    - The status of woefully delayed monthly updates.
+    - That we have varying workflows and communication levels of different Working Groups (WGs) and if there are potential issues arising from that.
+    - That we needed to draft an official policy around "python" and "cpython" organizations on PyPI.
+    - Establishing a communication channel with all of our Developer in Residences.
+    - The possibility of encouraging more devguide entries about how the Tier 2 interpreter in `ceval.c` works.
+    - Ongoing research into state of the world around an OS “Fetch URL” API and if those could simplify bundled `pip` requirements.
+    - The in progress SC election process.
+- Sync-ups with Łukasz (Senior Developer in Residence), topics covered included:
+    - Recent work on coverage mode and a multi-line REPL.
+    - If there are potential for alternatives to Buildbot.
+    - The status of [PEP 649 deferred evaluation of annotations,](https://peps.python.org/pep-0649/) implementation(s).
+    - The successful start of [our Supporting Developer in Residence, Serhiy Storchaka](https://discuss.python.org/t/welcoming-the-supporting-developer-in-residence/39702).
+    - The ongoing ARM performance benchmarking efforts with donated hardware. Including the renaming branch `master` to `main` while maintaining historical data requiring work.
+    - The status of two factor authentication (2FA) vs GitHub bots and the assurance that there won't be any issues with the current bots when 2FA is rolled out.
+    - The decision to drop running BigMem buildbot on 3.12 and only run on `main`. This allows Łukasz to use existing hardware.
+    - Łukasz's recent public appearances: Nokia C++ conference talk about async generators & a podcast episode about frame optimization.
+- End of term hand over meeting from [the 2023 SC](https://discuss.python.org/t/2023-term-python-steering-council-election-results/21951) to [the 2024 SC](https://discuss.python.org/t/steering-council-election-results-2024-term/40851):
+    - Goodbye Brett, Welcome Barry!
+    - Discussed our current processes.
