@@ -44,7 +44,7 @@
     - Chatting with Itamar regarding Meta's September 2024 core dev sprint logistics and PSF finance details.
     - Release Management automation and contingency plan ideas.
     - The potential formation of a Packaging Council.
-    - Tier support for WASI or WASM and updating PEP-11 to reflect that.
+    - Tier support for WASI or WASM and updating [PEP 11](https://peps.python.org/pep-0011/) to reflect that.
     - Our desire to see the JIT have an informational PEP.
         - Brandt joined us for office hours to discuss this.
         - A desire for to explain what maintaining and testing entails for fellow core devs.
