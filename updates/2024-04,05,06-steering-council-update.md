@@ -7,7 +7,7 @@
         - Finalized and posted our decision on [PEP 734, subinterpreters in the stdlib](https://discuss.python.org/t/pep-734-multiple-interpreters-in-the-stdlib/41147/24).
         - Accepted [PEP 667, Consistent views of namespaces](https://peps.python.org/pep-0667/) after much discussion. The alternatives were considered worse in the long run.
     - Sync up meetings with Łukasz, the Developer-in-Residence:
-        - The untangling of potential license and CLA issues on the infrastructure repositories. Not glamourous work, needs doing, will involve PSF council as appropriate.
+        - The untangling of potential license and CLA issues on the infrastructure repositories. Not glamorous work, needs doing, will involve PSF counsel as appropriate.
         - Discussed the fall core dev sprint Meta and PSF sponsorship status.
         - PyCon US 2024 language summit signs up at capacity.
         - Ł is going to EuroPython: Landed a keynote slot.
