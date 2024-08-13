@@ -35,7 +35,7 @@
     - Discussed and announced who would be our next Release Manager (RM) and related logistical issues.
     - Continual brainstorming on what to include in what form for our PyCon US 2024 keynote address. In classic PyCon fashion our collective presentation was congealing up until the day we gave it.
     - Discussed a PR brought to our attention that we believe should not have been merged as is, regardless of intent, and whether or not we can do anything about it right now.
-    - More discussions community friction regarding Packaging and PyPI, the Packaging WG, and PyPA with the PSF.
+    - More discussions on community friction regarding Packaging and PyPI, the Packaging WG, and PyPA with the PSF.
     - Noticing how we have misaligned cadences among many of our collective core dev working styles. It leads to a strain on decision making. Perhaps a discussion topic for the core dev sprint at Meta?
     - Greg and Barry employer changes; no [PEP-13 conflicts](https://peps.python.org/pep-0013/#conflicts-of-interest).
     - Office hours visit from Carol Willing to discuss inclusion in our community. Rationale behind the impacts, challenges, differing burdens, and ideas for possible next steps. Some of which also align with ideas the PSF has been pondering. Lots of food for thought. Nothing is simple or quick.
