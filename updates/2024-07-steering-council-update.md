@@ -37,7 +37,7 @@ Steering Council Meeting
 
 - Discussion on the release of Python 3.13rc1
 - Discussion on proposed semantics for [PEP 667](https://peps.python.org/pep-0667/)
-- CoC violation discussion
+- Discussion on CoC violation
 - Conversation on how to improve inclusivity in the Python community
 
 ---
