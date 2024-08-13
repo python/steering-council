@@ -56,7 +56,7 @@
     - An update from the PSF on the status of sponsorships and future needs.
     - The desire for a better understanding of PyPI's operating costs (from the PSF) and a desire for a roadmap to facilitate better support and sponsorship.
     - Deb, PSF executive director, channelling the Python users' vibe from many angles around packaging ecosystem not being great on many fronts based on different needs and what could be done by whom.
-    - Discussed a past banned Core Dev who's 1-year ban had expired and automatically reinstated some access (an identified process issue). We reinstated that ban after they unfortunately generated fresh conduct complaints and reached out directly seeking the required acknowledgement of the code of conduct and promise to abide by it if they wanted the ban lifted.
+    - Discussed a past banned Core Dev whose 1-year ban had expired and automatically reinstated some access (an identified process issue). We reinstated that ban after they unfortunately generated fresh conduct complaints and reached out directly seeking the required acknowledgement of the code of conduct and promise to abide by it if they wanted the ban lifted.
     - Ongoing discussions of some other observed and casually reported core developer behaviors and how to foster improvement.
     - Discussed needs for better communication between PyPI and the PyPA and how to foster that.
     - Discussed with current release managers who the next release manager should be.
