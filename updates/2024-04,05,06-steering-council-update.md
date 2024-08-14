@@ -1,0 +1,42 @@
+# April through June 19, 2024 Steering Council update
+
+- Steering Council discussion topics:
+    - **PEPs**
+        - Ongoing [PEP 741, a Configuration C API](https://peps.python.org/pep-0741/) discussions; seeking consensus and clarity and WG input. Ultimately decided to postpone this until 3.14.
+        - Repeated check-ins on [PEP 649, deferred evaluation of annotations using descriptors](https://peps.python.org/pep-0649/) implementation. We're collectively okay if this slips into 3.14.
+        - Finalized and posted our decision on [PEP 734, subinterpreters in the stdlib](https://discuss.python.org/t/pep-734-multiple-interpreters-in-the-stdlib/41147/24).
+        - Accepted [PEP 667, Consistent views of namespaces](https://peps.python.org/pep-0667/) after much discussion. The alternatives were considered worse in the long run.
+    - Sync up meetings with Łukasz, the Developer-in-Residence:
+        - The untangling of potential license and CLA issues on the infrastructure repositories. Not glamorous work, needs doing, will involve PSF counsel as appropriate.
+        - Discussed the fall core dev sprint Meta and PSF sponsorship status.
+        - PyCon US 2024 language summit signs up at capacity.
+        - Ł is going to EuroPython: Landed a keynote slot.
+        - Regarding the PyCon US Language Summit: Noted feedback on masking policy vs being able to hear presenters, present, and speak clearly. We follow the conference policy. Polite reminders are deemed useful.
+        - Ł and Pablo discussed encouraging people to make useful contributions to open source.
+        - Discussed buildbot config issues & speed.python.org updates.
+        - Discussed a growing TODO list of things desiring work and which of those should be delegated.
+        - Observations of potential (mis)uses of discuss.python.org as a symptom of people seeking attention on filed issues.
+        - 3.13 Beta 1 draws near (feature freeze). Preparing a last minute new REPL to land, based on PyPy's. Many edge case bugs revealed on many platforms by this.
+        - Happy to hear that PSF infrastructure hiring is in progress.
+        - Discussed Łukasz' potential mentoring of someone.
+        - Discussed too many hats being worn on interrupt driven roles leading to burnout.
+        - Discussed feedback about the the language summit and whether or not there is anything we could do in the future that wouldn't just be alternately perceived poorly as a burden.
+        - Discussed a conduct issue reported at our PyCon US 2024 core dev sprint and what we can do to make a proper welcoming environment at future events. Popularity, limited space, lack of organization, differing unaligned expectations, and biased invalid assumptions culminated in problems this year. :(
+    - Recommendation letters needed for some core dev travel Visas; being drafted. Can come from the PSF if helpful.
+    - Discussions around our Communications Liaison hiring. PSF working out the contract. Our initial offer fell through, we [extended an offer to our alternate equally qualified candidate](https://discuss.python.org/t/the-steering-council-is-hiring/44686/6), as we had discussed might happen with them during our initial rejection communication. The title was renamed from Secretary to Communications Liaison to better reflect the role.
+    - Discussed how it'd be nice if our monthly SC update summaries were actually created, reviewed, and published before PyCon US 2024. *(editors note: LOL... given the backlog this is being posted as part of, volunteer time is precious, thus hiring)*
+    - Discussed new 3.13 REPL platform implementation woes. "At least it is not using readline" also means "people who rely on obscure readline featureitis frown".
+    - Discussions of type annotations in the stdlib. More community discussions needed before any proposal can be made. Annotations in `Tools/` have found actual bugs.
+    - Discussed capacity issues at the upcoming September core dev sprint; space limitations are real and lead to hard choices.
+    - Discussed logistics of the remaining two core dev mentorship sessions that Edward is holding this quarter. *(editors note: held)*
+    - Discussed further ongoing core dev mentorship needs and the utility of a possible Mentorship WG. One theme has always been lack of volunteer time availability.
+    - Discussed how it'd be good if release managers wrote up retrospectives. That requires extra time commitment on their part. We'd all benefit, not just future RMs.
+    - Discussed our recent core dev promotion votes. No vetoes (all approved). We're noticing that our process feels a bit odd, the SC represents the community thus a veto of any form would not be well received. Nor would a vote itself failing. So this means anyone proposing someone effectively needs to do homework and talk via backchannels to a slew of core devs and SC first to ensure that neither negative outcome is likely. Maybe this is working as intended? But we don't state it as such anywhere... But what would be meaningfully better to propose?
+    - Discussed and announced who would be our next Release Manager (RM) and related logistical issues.
+    - Continual brainstorming on what to include in what form for our PyCon US 2024 keynote address. In classic PyCon fashion our collective presentation was congealing up until the day we gave it.
+    - Discussed a PR brought to our attention that we believe should not have been merged as is, regardless of intent, and whether or not we can do anything about it right now.
+    - More discussions on community friction regarding Packaging and PyPI, the Packaging WG, and PyPA with the PSF.
+    - Noticing how we have misaligned cadences among many of our collective core dev working styles. It leads to a strain on decision making. Perhaps a discussion topic for the core dev sprint at Meta?
+    - Greg and Barry employer changes; no [PEP 13 conflicts](https://peps.python.org/pep-0013/#conflicts-of-interest).
+    - Office hours visit from Carol Willing to discuss inclusion in our community. Rationale behind the impacts, challenges, differing burdens, and ideas for possible next steps. Some of which also align with ideas the PSF has been pondering. Lots of food for thought. Nothing is simple or quick.
+    - Started discussing a proposed PSF grant that could potentially be used to help grow early-career folks? Information being gathered.
