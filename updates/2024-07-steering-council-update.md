@@ -2,7 +2,7 @@
 
 ## 2024-06-26
 
-- Discussion on code of conduct violation
+- Discussion on Code of Conduct violation
 
 ## 2024-07-03
 
@@ -12,7 +12,7 @@
 
 ## 2024-07-10
 
-- Discussion on Code of Conduct violations
+- Discussion on Code of Conduct violation
 
 ## 2024-07-17
 
@@ -31,13 +31,13 @@ Steering Council and Developer in Residence Meeting
 Steering Council Meeting
 
 - 3.13rc1 vs [PEP 667](https://peps.python.org/pep-0667/)
-- Discussion on a code of conduct violation
+- Discussion on code of conduct violation
 
 ## 2024-07-31
 
 - Discussion on the release of Python 3.13rc1
 - Discussion on proposed semantics for [PEP 667](https://peps.python.org/pep-0667/)
-- Discussion on CoC violation
+- Discussion on Code of Conduct violation
 - Conversation on how to improve inclusivity in the Python community
 
 ---
