@@ -1,0 +1,63 @@
+# January through March 2024 SC update
+
+- Steering Council (new 2024 edition) discussion topics:
+    - Discussed our current meeting time, dev in res sync times, and office hours scheduling.
+    - Hiring a part time person for note taking and what our expectations for this role should be.
+        - Drafted and posted [our official job description](https://discuss.python.org/t/the-steering-council-is-hiring/44686).
+        - Collected job applications and reviewed resumes.
+        - At least 20 people applied!
+        - Interviewed N candidates, rejected the others. Made a choice and sent a job offer.
+        - *Editors note: Our initial job. req. described this role as "Secretary". We all agreed that role title was not great and settled upon a much more appropriate title of "Communications Liaison" with the individual hired.*
+    - Pablo coordinating with Edward for our core dev mentorship training sessions.
+        - The first mentoring session happened in March. Observation: We *also* used the first one as experience sharing talk time. Note to future selves: We could set our own mini-sessions up just for that.
+    - Lack of use of our SC Office Hours slot and the need to better promote those.
+    - **PEPs**
+        - Rejected [PEP 726 module `__setattr__` and `__delattr__`](https://peps.python.org/pep-0726/) after reviewing it and the resulting discussions. Drafted and posted the pronouncement.
+        - Discussed Windows free-threaded [PEP 703](https://peps.python.org/pep-0703/) installer design details.
+        - Many discussions on [PEP 712 dataclass converters](https://peps.python.org/pep-0712/). *(editors note: ultimately rejected)*.
+        - Accepted [PEP 737 C API to format a types fully qualified name](https://peps.python.org/pep-0737/) after much discussion; including raising [a concern about a name choice and overall scope](https://discuss.python.org/t/pep-737-unify-type-name-formatting/39872/51).
+        - Accepted [PEP 705 TypedDict: Read-only items](https://peps.python.org/pep-0705/) per the Typing Council's recommendation.
+        - Accepted [PEP 738 Adding Android as a supported platform](https://peps.python.org/pep-0738/), this spawned some discussions of CI and buildbot needs.
+        - Discussed [PEP 734 Multiple interpreters in the stdlib](https://peps.python.org/pep-0734/) and decided [to Defer it, seeking external maintenance as a PyPI module](https://discuss.python.org/t/pep-734-multiple-interpreters-in-the-stdlib/41147/24) for starters.
+            - Eric Snow joined us for office hours on this.
+        - Accepted [PEP 742 narrowing types with TypeIs](https://peps.python.org/pep-0742/) after review based on the Typing Council's recommendation.
+        - Discussions around [PEP 741 Python Configuration C API](https://peps.python.org/pep-0741/).
+        - Further discussions on [PEP 667 Consistent views of namespaces](https://peps.python.org/pep-0667/).
+    - Sync up meetings with Łukasz, the Developer-in-Residence:
+        - Recent travels and work on the PyCon US program committee.
+        - The start of our new Deputy Developer in Residence, Petr, and planning for the DiR team's focus areas.
+        - How reporting of overall DiR activity, progress, and blockers should be done.
+        - The status of two factor authentication requirements on GitHub.
+        - Logistics of our ability to implement *required* code reviews on new-feature PRs. We have a long term desire to see this for all PRs, but need to prove to core devs that it can work on a smaller uncontroverisal scale first.
+        - Future Release Manager (RM) role planning.
+        - Buildbots and their maintenance issues.
+        - The upgrade of speed.python.org.
+        - Security releases and challenges with 3.8, 3.9, & 3.10.
+        - Challenges and concerns around PyPI's account recovery process and the impact on sponsors and the community. *(editors note: The PSF has since hired someone to help with this!)*
+        - The importance of transparency and good communication for the health of the community.
+        - Ongoing [PEP 541 Package Index Name Retention](https://peps.python.org/pep-0541/) work.
+        - The status of [PEP 649 deferred eval of annotations](https://peps.python.org/pep-0649/).
+        - Community misconceptions revealed when talking at a small conference about our upcoming Python 3.13.
+        - The PyCon 2024 US language summit logistics.
+        - The need to provide feedback to our DiRs.
+    - More thoughts on what we want our PyPI org policy to be.
+    - Chatting with Itamar regarding Meta's September 2024 core dev sprint logistics and PSF finance details.
+    - Release Management automation and contingency plan ideas.
+    - The potential formation of a Packaging Council.
+    - Tier support for WASI or WASM and updating [PEP 11](https://peps.python.org/pep-0011/) to reflect that.
+    - Our desire to see the JIT have an informational PEP.
+        - Brandt joined us for office hours to discuss this.
+        - A desire for to explain what maintaining and testing entails for fellow core devs.
+        - Result: [PEP 744 JIT Compilation](https://peps.python.org/pep-0744/).
+        - Discussions of where it could head in the future and the need to do those in public forums.
+        - Experimental exit criteria, debugging, profiling, etc.
+    - Started discussing what we should focus on in our PyCon US 2024 keynote slot.
+    - A potential need to make role boundaries more clear between our different groups such as core devs, developers in residence, and release managers. Responsibility becomes more complex as we grow and mix volunteers with paid staff.
+    - An update from the PSF on the status of sponsorships and future needs.
+    - The desire for a better understanding of PyPI's operating costs (from the PSF) and a desire for a roadmap to facilitate better support and sponsorship.
+    - Deb, PSF executive director, channelling the Python users' vibe from many angles around packaging ecosystem not being great on many fronts based on different needs and what could be done by whom.
+    - Discussed a past banned Core Dev whose 1-year ban had expired and automatically reinstated some access (an identified process issue). We reinstated that ban after they unfortunately generated fresh conduct complaints and reached out directly seeking the required acknowledgement of the code of conduct and promise to abide by it if they wanted the ban lifted.
+    - Ongoing discussions of some other observed and casually reported core developer behaviors and how to foster improvement.
+    - Discussed needs for better communication between PyPI and the PyPA and how to foster that.
+    - Discussed with current release managers who the next release manager should be.
+    - Approved the creation of a /python/blurb/ GitHub repo.
