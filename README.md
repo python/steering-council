@@ -2,6 +2,9 @@
 
 This repo contains activity updates, process, and planning information for the Python Steering Council.
 
+The canonical location for who is on the current steering council, how we are selected, and our role
+lives within the [PEP-13 Python Language Governance](https://peps.python.org/pep-0013/) document.
+
 ## Office Hours
 
 The Steering Council has office hours for anyone in the community that wants to
