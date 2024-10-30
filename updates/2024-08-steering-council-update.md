@@ -32,4 +32,4 @@
 - Discussion on more explicit authority for the Release Manager’s role going forward
 - Highlight on the ongoing [PEP 13 – Python Language Governance](https://peps.python.org/pep-0013/) discussion on potential changes
 - Discussion on whether there should be a PEP for PyREPL
-- Discussion on how to know when something needs a PEP or not and update [PEP 2 –Procedure for Adding New Modules](https://peps.python.org/pep-0002/)
+- Discussion on how to know when something needs a PEP or not and update [PEP 2 – Procedure for Adding New Modules](https://peps.python.org/pep-0002/)
