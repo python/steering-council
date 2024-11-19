@@ -94,6 +94,7 @@ future Steering Council members.
 
 - [Onboarding new members](process/onboarding.md)
 - [Best practices for effective governance](process/best-practices.md)
+- [Standing Delegations](process/standing-delegations.md)
 
 ## Reference
 
