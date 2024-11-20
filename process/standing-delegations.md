@@ -50,7 +50,7 @@ isolated PEP topic).
 ## Documentation Editorial Board
 
 The Documentation Editorial Board (described in [PEP
-732](https://peps.python.org/pep-0732/) is in charge of the strategy,
+732](https://peps.python.org/pep-0732/)) is in charge of the strategy,
 structure, style and governance of all of Python's user-facing documentation
 efforts. As with the C API WG there is no standing PEP delegation as there are
 few PEPs specific to the documentation efforts, but the Editorial Board has
