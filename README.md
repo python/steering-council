@@ -16,7 +16,9 @@ These meetings can be used by Core Devs, PEP authors and anyone else
 contributing to Python to discuss things they want to discuss with the Steering
 Council, when email or a GitHub ticket is for whatever reason not as desirable.
 
-Scheduling is done through [Google Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUtnZXJMbl9OM3J3fGRlZmF1bHR8YWE1ZDg2MWUyZTIwYTI0NDFlNjVlOTM4Y2U3NjU2MDk). When booking a slot, please make
+Scheduling *was* done through [Google Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUtnZXJMbl9OM3J3fGRlZmF1bHR8YWE1ZDg2MWUyZTIwYTI0NDFlNjVlOTM4Y2U3NjU2MDk) but Google
+broke that. Email us via steering-council at python . org to book a time until a new scheduling
+system is sorted out.  When booking, please make
 sure to do so at least 3 days in advance, and if possible include the topic in
 the appointment so we can be prepared. For longer chats, different schedules
 (we realise the current time isn’t always good for everyone), or pressing
@@ -108,3 +110,4 @@ future Steering Council members.
 - [PEP 8103 2022 Term steering council election](https://peps.python.org/pep-8103/)
 - [PEP 8104 2023 Term steering council election](https://peps.python.org/pep-8104/)
 - [PEP 8105 2024 Term steering council election](https://peps.python.org/pep-8105/)
+- [PEP 8106 2025 Term steering council election](https://peps.python.org/pep-8106/)
