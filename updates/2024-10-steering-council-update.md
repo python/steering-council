@@ -11,7 +11,7 @@ Release Management:
 
 Core Developer Updates:
 
-- Someone nominated for triaging, open vote on discourse
+- Someone nominated for triaging, open vote on Discourse
 - Increase in core developer numbers noted
 
 Process Improvements:
