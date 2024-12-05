@@ -80,7 +80,7 @@ Python 3.13 Release:
 
 Core Developer Sprints:
 
-- Discussed potential ARM-hosted sprint in Cambridge UK
+- Discussed potential Arm-hosted sprint in Cambridge UK
 - Considered logistics, including hotel bookings and travel arrangements
 - Explored sponsorship possibilities, including potential separate corporate sponsorship for 2026
 
