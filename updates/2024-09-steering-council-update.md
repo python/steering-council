@@ -129,7 +129,7 @@ Core Developer Promotion:
 - The Steering Council unanimously accepts the community vote to promote Kirill Podoprigora to Core Developer
 - Steering Council to follow up on the promotion process
 
-Core Developer Sprint 2024:
+Core Developer Sprint 2025:
 
 - Considering ARM's proposal to host in Cambridge, UK
 - Pablo to discuss expectations and needs with Diego
