@@ -110,7 +110,7 @@ Core Developer Management:
 
 Core Developer Sprint:
 
-- Proceeding with ARM's offer to host in Cambridge UK
+- Proceeding with Arm's offer to host in Cambridge UK
 - Exploring additional sponsorship opportunities
 - Clarified need to set expectations with sponsors regarding exclusivity
 
