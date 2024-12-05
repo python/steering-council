@@ -133,7 +133,7 @@ Core Developer Sprint 2025:
 
 - Considering Arm's proposal to host in Cambridge, UK
 - Pablo to discuss expectations and needs with Diego
-- Visa considerations to be clarified with ARM and PSF
+- Visa considerations to be clarified with Arm and PSF
 - Six months advance notice required for invitees
 
 Python 3.13 Release:
