@@ -46,7 +46,7 @@ Core Developer Sprints:
 Miscellaneous:
 
 - Office hours with another developer in residence scheduled for next week
-- [PEP 2026](https://peps.python.org/pep-2026/)to be discussed next week
+- [PEP 2026](https://peps.python.org/pep-2026/) to be discussed next week
 - Łukasz's requirement review process discussed
 
 ## 2024-10-09
