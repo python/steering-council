@@ -63,3 +63,9 @@ impossibility to find a common replacement date in the week ]
   can benefit the Python community at large. It was decided that the steering
   council will email the Debian maintainers to try to reach some common ground
   and discuss how to proceed.
+
+## Discussing PEPs in Threads Listed in the `Post-History` Header
+
+- Review the PEP's `Post-History` header for discussion threads.
+- Discuss PEPs in the appropriate threads to gather community feedback and insights.
+- Emphasize the importance of community feedback and discussion.

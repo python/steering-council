@@ -11,6 +11,12 @@
   reach out the [PEP 505](https://www.python.org/dev/peps/pep-0505/)(None-aware operators)
   authors to get a status update.
 
+## Discussing PEPs in Threads Listed in the `Post-History` Header
+
+- Review the PEP's `Post-History` header for discussion threads.
+- Discuss PEPs in the appropriate threads to gather community feedback and insights.
+- Emphasize the importance of community feedback and discussion.
+
 # August 9
 - The Steering Council had a meeting with the GitHub issues PM (Ezio Melotti)
   to learn why there has been a long period of no progress and advise what
@@ -54,3 +60,9 @@
   communicate with Yury as they were building something similar for EdgeDB.
 - The Steering Council met with Ezio to discuss his progress with the GitHub
   migration project. The SC advised Ezio as to what the priority projects are.
+
+## Discussing PEPs in Threads Listed in the `Post-History` Header
+
+- Review the PEP's `Post-History` header for discussion threads.
+- Discuss PEPs in the appropriate threads to gather community feedback and insights.
+- Emphasize the importance of community feedback and discussion.

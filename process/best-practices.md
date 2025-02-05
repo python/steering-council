@@ -33,6 +33,11 @@ Yet, one can only wear one at a time. It's important to reflect on one's role an
 
 > There's no single blueprint for success. ...consider their own organizations' history and values.
 
+## Discussing PEPs in Threads Listed in the `Post-History` Header
+
+- Review the PEP's `Post-History` header for discussion threads.
+- Discuss PEPs in the appropriate threads to gather community feedback and insights.
+- Emphasize the importance of community feedback and discussion.
 ---
 
 [Bibliography - The Nonprofit Board Answer Book, Third Edition](https://www.amazon.com/Nonprofit-Board-Answer-Book-Executives-ebook-dp-B007T02Q7Y/dp/B007T02Q7Y/ref=mt_kindle)

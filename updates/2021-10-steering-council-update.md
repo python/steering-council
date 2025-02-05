@@ -46,3 +46,9 @@
   (Standardizing Enum str(), repr(), and format() behaviors) declined. The
   Steering Council will think of who else it can be delegated to, or take it
   on themselves.
+
+## Discussing PEPs in Threads Listed in the `Post-History` Header
+
+- Review the PEP's `Post-History` header for discussion threads.
+- Discuss PEPs in the appropriate threads to gather community feedback and insights.
+- Emphasize the importance of community feedback and discussion.

@@ -37,3 +37,9 @@
 - Group discussed enum.Enum `repr` and `str` changes in 3.10 & 3.11. It was
   decided that Barry will email python-dev@ and strongly suggest that we
   rollback to 3.9 behavior for 3.10 and write a new PEP for 3.11.
+
+## Discussing PEPs in Threads Listed in the `Post-History` Header
+
+- Review the PEP's `Post-History` header for discussion threads.
+- Discuss PEPs in the appropriate threads to gather community feedback and insights.
+- Emphasize the importance of community feedback and discussion.

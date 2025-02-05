@@ -34,3 +34,9 @@ July 2019 through October 2019
 - [PEP 484](https://www.python.org/dev/peps/pep-0484/) policy for inclusion of stubs in typeshed was discussed and the [PR](https://github.com/python/peps/pull/1218/) around it. It was decided that a sentence would be changed to make type stubs an opt-out situation and not opt-in. 
 - [PEP 608](https://www.python.org/dev/peps/pep-0608/) and [discussion](https://discuss.python.org/t/rfc-pep-608-coordinated-python-release/2539) were reviewed by the Steering Council. It was decided that the PEP as is would be rejected, but that the buildbot CI option will work. Nick has responded to the [discussion on Discourse](https://discuss.python.org/t/rfc-pep-608-coordinated-python-release/2539/22) with the decision and suggestion.
 - It was decided that Ewa will help put together the Community Updates so they happen monthly. 
+
+## Discussing PEPs in Threads Listed in the `Post-History` Header
+
+- Review the PEP's `Post-History` header for discussion threads.
+- Discuss PEPs in the appropriate threads to gather community feedback and insights.
+- Emphasize the importance of community feedback and discussion.

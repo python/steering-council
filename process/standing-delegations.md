@@ -56,3 +56,8 @@ efforts. As with the C API WG there is no standing PEP delegation as there are
 few PEPs specific to the documentation efforts, but the Editorial Board has
 specific autonomy and authority as described in PEP 732.
 
+## Discussing PEPs in Threads Listed in the `Post-History` Header
+
+- Review the PEP's `Post-History` header for discussion threads.
+- Discuss PEPs in the appropriate threads to gather community feedback and insights.
+- Emphasize the importance of community feedback and discussion.

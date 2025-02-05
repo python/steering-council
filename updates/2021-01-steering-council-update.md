@@ -106,3 +106,9 @@
   start a draft to the gist to explain the SC point of view.
 - All other items up for discussion got pushed to next week because we went
   30 minutes over.
+
+## Discussing PEPs in Threads Listed in the `Post-History` Header
+
+- Review the PEP's `Post-History` header for discussion threads.
+- Discuss PEPs in the appropriate threads to gather community feedback and insights.
+- Emphasize the importance of community feedback and discussion.

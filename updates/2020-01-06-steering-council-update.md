@@ -17,3 +17,9 @@
 - Steering Council discussed PyPI’s typosquatting issues.
 - Group discussed the status of the GitHub migration plan. Ewa drafted a job description for the Project Manager role to help with the GitHub migration for the Dec 17th SC meeting. The Steering Council reviewed it and Ewa scheduled a call with the GitHub team for late January for next steps.
 - Steering Council decided to keep Zulip since the Packaging-wg plans on using it. We will re-evaluate usage next year. Guido informed the [Discourse thread](https://discuss.python.org/t/should-we-continue-using-zulip/2816/7). Brett [posted an announcement](https://python.zulipchat.com/#narrow/stream/116742-core.2Fhelp/topic/Engagement.20here.20might.20be.20winding.20down) in Zulip.
+
+## Discussing PEPs in Threads Listed in the `Post-History` Header
+
+- Review the PEP's `Post-History` header for discussion threads.
+- Discuss PEPs in the appropriate threads to gather community feedback and insights.
+- Emphasize the importance of community feedback and discussion.

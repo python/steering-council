@@ -10,6 +10,8 @@
   - [ ] steering-council@ mailing list (which has private archives)
   - [ ] Discourse
 - [ ] Review [best practices](best-practices.md) for effective governance
+- [ ] Review the PEP's `Post-History` header for discussion threads
+- [ ] Discuss PEPs in the appropriate threads to gather community feedback and insights
 
 ## New Council Tasks
 

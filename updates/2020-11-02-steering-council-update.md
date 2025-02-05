@@ -324,3 +324,8 @@
 - CZI grant request (https://github.com/python/steering-council/issues/26)
   was declined.
 
+## Discussing PEPs in Threads Listed in the `Post-History` Header
+
+- Review the PEP's `Post-History` header for discussion threads.
+- Discuss PEPs in the appropriate threads to gather community feedback and insights.
+- Emphasize the importance of community feedback and discussion.
