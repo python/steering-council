@@ -9,25 +9,26 @@ lives within the [PEP-13 Python Language Governance](https://peps.python.org/pep
 
 The Steering Council has office hours for anyone in the community that wants to
 discuss something with the Steering Council. Office hours are bookable
-half-hour video calls at the start of our regular weekly meeting. Currently
-it’s 30 minutes on Wednesday, 17:30 GMT (check your timezone [here](https://www.timebie.com/std/gmt.php?q=17.5)).
+half-hour video calls at the start of our regular weekly meeting every other week.
+Currently it’s 30 minutes on Thursdays, 14:00 Mountain Time (check your timezone
+[here](https://www.timebie.com/std/mountain.php?q=14)).
 
 These meetings can be used by Core Devs, PEP authors and anyone else
 contributing to Python to discuss things they want to discuss with the Steering
 Council, when email or a GitHub ticket is for whatever reason not as desirable.
 
-Scheduling *was* done through [Google Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUtnZXJMbl9OM3J3fGRlZmF1bHR8YWE1ZDg2MWUyZTIwYTI0NDFlNjVlOTM4Y2U3NjU2MDk) but Google
-broke that. Email us via steering-council at python . org to book a time until a new scheduling
-system is sorted out.  When booking, please make
-sure to do so at least 3 days in advance, and if possible include the topic in
-the appointment so we can be prepared. For longer chats, different schedules
-(we realise the current time isn’t always good for everyone), or pressing
-matters, contact us directly. We can always arrange something else.
+Scheduling is done through [Notion Calendar](https://calendar.notion.so/meet/emilyemorehouse/oci084lej)
+which creates an invitation via Google Calendar with a Meet link.
+
+When booking, please make sure to do so at least 3 days in advance, and if possible include the topic in
+the calendar invitation so we can be prepared. You may also manage additional attendees if needed.
+For longer chats, different schedules (we realise the current time isn’t always good for everyone),
+or pressing matters, contact us directly. We can always arrange something else.
 
 ## Updates
 
 These updates provide high level information about the Steering Council's
-activities. [Subscribe to updates in your feedreader via the Atom 
+activities. [Subscribe to updates in your feedreader via the Atom
 feed for repository commits](https://github.com/python/steering-council/commits/main.atom).
 
 <!-- [[[cog
