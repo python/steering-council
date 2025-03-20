@@ -10,8 +10,8 @@ lives within the [PEP-13 Python Language Governance](https://peps.python.org/pep
 The Steering Council has office hours for anyone in the community that wants to
 discuss something with the Steering Council. Office hours are bookable
 half-hour video calls at the start of our regular weekly meeting every other week.
-Currently it’s 30 minutes on Thursdays, 14:00 Mountain Time (check your timezone
-[here](https://www.timebie.com/std/mountain.php?q=14)).
+Currently it’s 30 minutes on Thursdays, 10:30 Mountain Time (check your timezone
+[here](https://www.timebie.com/std/mountain.php?q=10.5)).
 
 These meetings can be used by Core Devs, PEP authors and anyone else
 contributing to Python to discuss things they want to discuss with the Steering
