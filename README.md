@@ -17,7 +17,7 @@ These meetings can be used by Core Devs, PEP authors and anyone else
 contributing to Python to discuss things they want to discuss with the Steering
 Council, when email or a GitHub ticket is for whatever reason not as desirable.
 
-Scheduling is done through [Notion Calendar](https://calendar.notion.so/meet/emilyemorehouse/oci084lej)
+Scheduling is done through [Notion Calendar](https://calendar.notions so/meet/emilyemorehouse/oci084lej)
 which creates an invitation via Google Calendar with a Meet link.
 
 When booking, please make sure to do so at least 3 days in advance, and if possible include the topic in
