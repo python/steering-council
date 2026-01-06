@@ -5,19 +5,19 @@ This repo contains activity updates, process, and planning information for the P
 The canonical location for who is on the current steering council, how we are selected, and our role
 lives within the [PEP-13 Python Language Governance](https://peps.python.org/pep-0013/) document.
 
-## Office Hours
+## Office Hours For 2026
 
 The Steering Council has office hours for anyone in the community that wants to
 discuss something with the Steering Council. Office hours are bookable
 half-hour video calls at the start of our regular weekly meeting every other week.
-Currently it’s 30 minutes on Thursdays, 10:30 Mountain Time (check your timezone
-[here](https://www.timebie.com/std/mountain.php?q=10.5)).
+Currently it’s 30 minutes on Tuesdays, PST 1:00 PM (check your timezone
+[here](https://www.timebie.com/timelocal/pacific.php)).
 
 These meetings can be used by Core Devs, PEP authors and anyone else
 contributing to Python to discuss things they want to discuss with the Steering
 Council, when email or a GitHub ticket is for whatever reason not as desirable.
 
-Scheduling is done through [Notion Calendar](https://calendar.notion.so/meet/emilyemorehouse/oci084lej)
+Scheduling is done through [Google Calendar](https://calendar.app.google/kgVr2DRV4GtpC5gs5)
 which creates an invitation via Google Calendar with a Meet link.
 
 When booking, please make sure to do so at least 3 days in advance, and if possible include the topic in
