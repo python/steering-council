@@ -13,6 +13,7 @@
 
 ## New Council Tasks
 
+- [ ] Update PEP 13 current steering council members as needed
 - [ ] Set a calendar for one hour weekly council meetings
 - [ ] Determine primary communications lead to act as spokesperson
       in the event of a crisis (i.e. security breach, acts of nature, etc.)
