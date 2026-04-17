@@ -114,3 +114,4 @@ future Steering Council members.
 - [PEP 8104 2023 Term steering council election](https://peps.python.org/pep-8104/)
 - [PEP 8105 2024 Term steering council election](https://peps.python.org/pep-8105/)
 - [PEP 8106 2025 Term steering council election](https://peps.python.org/pep-8106/)
+- [PEP 8107 2026 Term steering council election](https://peps.python.org/pep-8107/)
