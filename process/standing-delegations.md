@@ -4,30 +4,27 @@ This document serves as a public record of current standing delegations for
 PEPs and other areas of authority, the reasons they were put in place, and
 the circumstances under which they may no longer be needed.
 
-## PyPA Delegations
+## Packaging Council
 
-Currently active packaging interoperability specifications are maintained in
-the [PyPA Specifications] section in the Python Packaging User Guide and the
-process for updating those specifications is documented in the [PyPA
-Documentation].
+The Packaging Council, set up in [PEP 772], oversees Python packaging
+standards. Currently active packaging interoperability specifications are
+maintained in the [Specifications] section of the Python Packaging User
+Guide. The Steering Council delegates decisions on packaging PEPs, including
+PEPs related to virtual environments, to the Packaging Council.
 
-These delegations are expected to stand indefinitely. Any of the standing
-delegates may also be a sponsor for any packaging-related PEP, regardless
-of their Python core developer status.
+The Packaging Council may also approve its members and other packaging
+contributors as sponsors for packaging PEPs, without requiring them to be
+Python core developers. The Packaging Council is responsible for
+establishing clear criteria for granting these rights, maintaining a record
+of who has them, and for periodically reviewing the list. Python core
+developers may continue to sponsor packaging PEPs.
 
-Standing PEP Delegations:
-
-- Package Distribution Metadata PEPs: Paul Moore
-- Package Index Interface PEPs: Donald Stufft
-
-[PyPA Specifications]: https://packaging.python.org/specifications/
-[PyPA Documentation]: https://www.pypa.io/en/latest/specifications/
-
-As an exception to the process documented in PEP 1, these PEPs should
-be announced/discussed in the [Packaging category] on Discourse,
-instead of the PEPs category.
+Packaging PEPs should be announced and discussed in the [Packaging category]
+on Discourse instead of the PEPs category.
 
 [Packaging category]: https://discuss.python.org/c/14
+[PEP 772]: https://peps.python.org/pep-0772/
+[Specifications]: https://packaging.python.org/specifications/
 
 ## Typing Council
 
